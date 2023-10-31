@@ -1,0 +1,1013 @@
+Object #16 destructed
+Object #15 destructed
+18
+Back to origin
+((1	0	0	0)
+ (0	1	0	0)
+ (0	0	1	0)
+ (0	0	0	1))
+Before Check Frog: initializing | 0,2 | -16 | 0,-14 | 14 | 27 | 
+Before Check Frog: Road | 0,4 | -16 | 0,-12 | 14 | 27 | 
+Before Check Frog: Road | 0,6 | -16 | 0,-10 | 14 | 27 | 
+Before Check Frog: Road | 0,8 | -16 | 0,-8 | 14 | 27 | 
+Before Check Frog: Road | 0,10 | -16 | 0,-6 | 14 | 27 | 
+Before Check Frog: Road | 0,12 | -16 | 0,-4 | 14 | 27 | 
+Before Check Frog: Road | 0,14 | -16 | 0,-2 | 14 | 27 | 
+Before Check Frog: Safe. | 0,16 | -16 | 0,0 | 14 | 27 | 
+Inside Complex Graphic Object isInside: 0,0 | 2.51231,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 30.9754,0 |  | 0.5,0.5 | -2.51231,0
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | -2.51231,0
+Inside Ellipse without Angle isInside: 0 | -14,0 | 22.9754,0 |  | 0.5,0.5 | -2.51231,0
+Inside Complex Graphic Object isInside: 0,0 | -5.02461,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | -0.487694,-2 |  | 2,1 | 5.02461,0
+Inside Complex Graphic Object isInside: 0,0 | 7.53692,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | -23.0738,-8 |  | 0.5,0.5 | -7.53692,0
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | -7.53692,0
+Inside Ellipse without Angle isInside: 0 | 8,4 | -31.0738,-8 |  | 0.5,0.5 | -7.53692,0
+Inside Complex Graphic Object isInside: 0,0 | 7.53692,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | -39.0738,-8 |  | 0.5,0.5 | -7.53692,0
+Inside Rectangle without Angle isInside: 0 | 14,4 | 4,1 | -7.53692,0
+Inside Ellipse without Angle isInside: 0 | 16,4 | -47.0738,-8 |  | 0.5,0.5 | -7.53692,0
+Inside Complex Graphic Object isInside: 0,0 | 5.02461,0
+Inside Ellipse without Angle isInside: 0 | -13,8 | 3.98769,-8 |  | 2,1 | -5.02461,0
+Inside Ellipse without Angle isInside: 0 | -8,8 | 1.48769,-8 |  | 2,1 | -5.02461,0
+Inside Ellipse without Angle isInside: 0 | -3,8 | -1.01231,-8 |  | 2,1 | -5.02461,0
+Inside Complex Graphic Object isInside: 0,0 | 5.02461,0
+Inside Ellipse without Angle isInside: 0 | 7,8 | -6.01231,-8 |  | 2,1 | -5.02461,0
+Inside Ellipse without Angle isInside: 0 | 12,8 | -8.51231,-8 |  | 2,1 | -5.02461,0
+Inside Ellipse without Angle isInside: 0 | 17,8 | -11.0123,-8 |  | 2,1 | -5.02461,0
+Inside Complex Graphic Object isInside: 0,0 | -2.51231,0
+Inside Ellipse without Angle isInside: 0 | -18,6 | 41.0246,-12 |  | 0.5,0.5 | 2.51231,0
+Inside Rectangle without Angle isInside: 0 | -15,6 | 6,1 | 2.51231,0
+Inside Ellipse without Angle isInside: 0 | -12,6 | 29.0246,-12 |  | 0.5,0.5 | 2.51231,0
+Inside Complex Graphic Object isInside: 0,0 | -2.51231,0
+Inside Ellipse without Angle isInside: 0 | -8,6 | 21.0246,-12 |  | 0.5,0.5 | 2.51231,0
+Inside Rectangle without Angle isInside: 0 | -5,6 | 6,1 | 2.51231,0
+Inside Ellipse without Angle isInside: 0 | -2,6 | 9.02461,-12 |  | 0.5,0.5 | 2.51231,0
+Inside Complex Graphic Object isInside: 0,0 | -2.51231,0
+Inside Ellipse without Angle isInside: 0 | 2,6 | 1.02461,-12 |  | 0.5,0.5 | 2.51231,0
+Inside Rectangle without Angle isInside: 0 | 5,6 | 6,1 | 2.51231,0
+Inside Ellipse without Angle isInside: 0 | 8,6 | -10.9754,-12 |  | 0.5,0.5 | 2.51231,0
+Inside Complex Graphic Object isInside: 0,0 | -2.51231,0
+Inside Ellipse without Angle isInside: 0 | 12,6 | -18.9754,-12 |  | 0.5,0.5 | 2.51231,0
+Inside Rectangle without Angle isInside: 0 | 15,6 | 6,1 | 2.51231,0
+Inside Ellipse without Angle isInside: 0 | 18,6 | -30.9754,-12 |  | 0.5,0.5 | 2.51231,0
+Inside Complex Graphic Object isInside: 0,0 | -2.51231,0
+Inside Ellipse without Angle isInside: 0 | 22,6 | -38.9754,-12 |  | 0.5,0.5 | 2.51231,0
+Inside Rectangle without Angle isInside: 0 | 25,6 | 6,1 | 2.51231,0
+Inside Ellipse without Angle isInside: 0 | 28,6 | -50.9754,-12 |  | 0.5,0.5 | 2.51231,0
+Inside Complex Graphic Object isInside: 0,0 | -7.53692,0
+Inside Ellipse without Angle isInside: 0 | -22,10 | 59.0738,-20 |  | 0.5,0.5 | 7.53692,0
+Inside Rectangle without Angle isInside: 0 | -20,10 | 4,1 | 7.53692,0
+Inside Ellipse without Angle isInside: 0 | -18,10 | 51.0738,-20 |  | 0.5,0.5 | 7.53692,0
+Inside Complex Graphic Object isInside: 0,0 | -7.53692,0
+Inside Ellipse without Angle isInside: 0 | -16,10 | 47.0738,-20 |  | 0.5,0.5 | 7.53692,0
+Inside Rectangle without Angle isInside: 0 | -14,10 | 4,1 | 7.53692,0
+Inside Ellipse without Angle isInside: 0 | -12,10 | 39.0738,-20 |  | 0.5,0.5 | 7.53692,0
+Inside Complex Graphic Object isInside: 0,0 | -7.53692,0
+Inside Ellipse without Angle isInside: 0 | -10,10 | 35.0738,-20 |  | 0.5,0.5 | 7.53692,0
+Inside Rectangle without Angle isInside: 0 | -8,10 | 4,1 | 7.53692,0
+Inside Ellipse without Angle isInside: 0 | -6,10 | 27.0738,-20 |  | 0.5,0.5 | 7.53692,0
+Inside Complex Graphic Object isInside: 0,0 | -7.53692,0
+Inside Ellipse without Angle isInside: 0 | -4,10 | 23.0738,-20 |  | 0.5,0.5 | 7.53692,0
+Inside Rectangle without Angle isInside: 0 | -2,10 | 4,1 | 7.53692,0
+Inside Ellipse without Angle isInside: 0 | 0,10 | 15.0738,-20 |  | 0.5,0.5 | 7.53692,0
+Inside Complex Graphic Object isInside: 0,0 | -7.53692,0
+Inside Ellipse without Angle isInside: 0 | 2,10 | 11.0738,-20 |  | 0.5,0.5 | 7.53692,0
+Inside Rectangle without Angle isInside: 0 | 4,10 | 4,1 | 7.53692,0
+Inside Ellipse without Angle isInside: 0 | 6,10 | 3.07384,-20 |  | 0.5,0.5 | 7.53692,0
+Inside Complex Graphic Object isInside: 0,0 | -7.53692,0
+Inside Ellipse without Angle isInside: 0 | 8,10 | -0.926159,-20 |  | 0.5,0.5 | 7.53692,0
+Inside Rectangle without Angle isInside: 0 | 10,10 | 4,1 | 7.53692,0
+Inside Ellipse without Angle isInside: 0 | 12,10 | -8.92616,-20 |  | 0.5,0.5 | 7.53692,0
+Before Check Frog: Dead Water! | -1,0 | -16 | -1,-16 | 14 | 27 | 
+Before Check Frog: Safe. | -1,2 | -16 | -1,-14 | 14 | 27 | 
+Before Check Frog: Road | -1,4 | -16 | -1,-12 | 14 | 27 | 
+Before Check Frog: Road | -1,6 | -16 | -1,-10 | 14 | 27 | 
+Before Check Frog: Road | -1,8 | -16 | -1,-8 | 14 | 27 | 
+Before Check Frog: Road | -1,10 | -16 | -1,-6 | 14 | 27 | 
+Before Check Frog: Road | -1,12 | -16 | -1,-4 | 14 | 27 | 
+Before Check Frog: Road | -1,14 | -16 | -1,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -2,14 | -16 | -2,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -3,14 | -16 | -3,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -4,14 | -16 | -4,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -5,14 | -16 | -5,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -6,14 | -16 | -6,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -7,14 | -16 | -7,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -8,14 | -16 | -8,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -9,14 | -16 | -9,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -9,16 | -16 | -9,0 | 14 | 27 | 
+Inside Complex Graphic Object isInside: -9,0 | 6.40286,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 5.19428,0 |  | 0.5,0.5 | -15.4029,0
+Inside Rectangle without Angle isInside: 1 | -16,0 | 4,1 | -15.4029,0
+Before Check Frog: SafeInWater | -9,18 | -16 | -9,2 | 14 | 27 | 
+Inside Complex Graphic Object isInside: -9,2 | 6.88263,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 4.23474,4 |  | 0.5,0.5 | -15.8826,2
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | -15.8826,2
+Inside Ellipse without Angle isInside: 0 | -14,0 | -3.76526,4 |  | 0.5,0.5 | -15.8826,2
+Inside Complex Graphic Object isInside: -9,2 | -13.7653,0
+Inside Ellipse without Angle isInside: 1 | 6,2 | -0.617371,0 |  | 2,1 | 4.76526,2
+Before Check Frog: SafeInWater | -9,20 | -16 | -9,4 | 14 | 27 | 
+Inside Complex Graphic Object isInside: -9,4 | 7.8675,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 2.265,8 |  | 0.5,0.5 | -16.8675,4
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | -16.8675,4
+Inside Ellipse without Angle isInside: 0 | -14,0 | -5.735,8 |  | 0.5,0.5 | -16.8675,4
+Inside Complex Graphic Object isInside: -9,4 | -15.735,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | 0.367499,2 |  | 2,1 | 6.735,4
+Inside Complex Graphic Object isInside: -9,4 | -16.3975,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | 6.79493,0 |  | 0.5,0.5 | 7.39746,4
+Inside Rectangle without Angle isInside: 1 | 6,4 | 4,1 | 7.39746,4
+Before Check Frog: SafeInWater | -8,20 | -16 | -8,4 | 14 | 27 | 
+Inside Complex Graphic Object isInside: -8,4 | 8.46697,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 3.06607,8 |  | 0.5,0.5 | -16.467,4
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | -16.467,4
+Inside Ellipse without Angle isInside: 0 | -14,0 | -4.93393,8 |  | 0.5,0.5 | -16.467,4
+Inside Complex Graphic Object isInside: -8,4 | -16.9339,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | 1.46697,2 |  | 2,1 | 8.93393,4
+Inside Complex Graphic Object isInside: -8,4 | -14.5991,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | 5.1981,0 |  | 0.5,0.5 | 6.59905,4
+Inside Rectangle without Angle isInside: 1 | 6,4 | 4,1 | 6.59905,4
+Before Check Frog: SafeInWater | -7,20 | -16 | -7,4 | 14 | 27 | 
+Inside Complex Graphic Object isInside: -7,4 | 8.73232,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 4.53535,8 |  | 0.5,0.5 | -15.7323,4
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | -15.7323,4
+Inside Ellipse without Angle isInside: 0 | -14,0 | -3.46465,8 |  | 0.5,0.5 | -15.7323,4
+Inside Complex Graphic Object isInside: -7,4 | -17.4646,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | 2.23232,2 |  | 2,1 | 10.4646,4
+Inside Complex Graphic Object isInside: -7,4 | -13.803,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | 5.60596,0 |  | 0.5,0.5 | 6.80298,4
+Inside Rectangle without Angle isInside: 1 | 6,4 | 4,1 | 6.80298,4
+Before Check Frog: SafeInWater | -6,20 | -16 | -6,4 | 14 | 27 | 
+Inside Complex Graphic Object isInside: -6,4 | 8.92231,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 6.15538,8 |  | 0.5,0.5 | -14.9223,4
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | -14.9223,4
+Inside Ellipse without Angle isInside: 0 | -14,0 | -1.84462,8 |  | 0.5,0.5 | -14.9223,4
+Inside Complex Graphic Object isInside: -6,4 | -17.8446,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | 2.92231,2 |  | 2,1 | 11.8446,4
+Inside Complex Graphic Object isInside: -6,4 | -13.233,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | 6.46606,0 |  | 0.5,0.5 | 7.23303,4
+Inside Rectangle without Angle isInside: 1 | 6,4 | 4,1 | 7.23303,4
+Before Check Frog: SafeInWater | -6,22 | -16 | -6,6 | 14 | 27 | 
+Inside Complex Graphic Object isInside: -6,6 | 9.36441,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 5.27118,12 |  | 0.5,0.5 | -15.3644,6
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | -15.3644,6
+Inside Ellipse without Angle isInside: 0 | -14,0 | -2.72882,12 |  | 0.5,0.5 | -15.3644,6
+Inside Complex Graphic Object isInside: -6,6 | -18.7288,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | 3.36441,4 |  | 2,1 | 12.7288,6
+Inside Complex Graphic Object isInside: -6,6 | -11.9067,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | 3.8135,4 |  | 0.5,0.5 | 5.90675,6
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | 5.90675,6
+Inside Ellipse without Angle isInside: 0 | 8,4 | -4.1865,4 |  | 0.5,0.5 | 5.90675,6
+Inside Complex Graphic Object isInside: -6,6 | -11.9067,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | -12.1865,4 |  | 0.5,0.5 | 5.90675,6
+Inside Rectangle without Angle isInside: 0 | 14,4 | 4,1 | 5.90675,6
+Inside Ellipse without Angle isInside: 0 | 16,4 | -20.1865,4 |  | 0.5,0.5 | 5.90675,6
+Inside Complex Graphic Object isInside: -6,6 | 18.7288,0
+Inside Ellipse without Angle isInside: 0 | -13,8 | -5.86441,-2 |  | 2,1 | -24.7288,6
+Inside Ellipse without Angle isInside: 0 | -8,8 | -8.36441,-2 |  | 2,1 | -24.7288,6
+Inside Ellipse without Angle isInside: 0 | -3,8 | -10.8644,-2 |  | 2,1 | -24.7288,6
+Inside Complex Graphic Object isInside: -6,6 | 18.7288,0
+Inside Ellipse without Angle isInside: 0 | 7,8 | -15.8644,-2 |  | 2,1 | -24.7288,6
+Inside Ellipse without Angle isInside: 0 | 12,8 | -18.3644,-2 |  | 2,1 | -24.7288,6
+Inside Ellipse without Angle isInside: 0 | 17,8 | -20.8644,-2 |  | 2,1 | -24.7288,6
+Inside Complex Graphic Object isInside: -6,6 | -9.36441,0
+Inside Ellipse without Angle isInside: 0 | -18,6 | 42.7288,0 |  | 0.5,0.5 | 3.36441,6
+Inside Rectangle without Angle isInside: 0 | -15,6 | 6,1 | 3.36441,6
+Inside Ellipse without Angle isInside: 0 | -12,6 | 30.7288,0 |  | 0.5,0.5 | 3.36441,6
+Inside Complex Graphic Object isInside: -6,6 | -9.36441,0
+Inside Ellipse without Angle isInside: 0 | -8,6 | 22.7288,0 |  | 0.5,0.5 | 3.36441,6
+Inside Rectangle without Angle isInside: 0 | -5,6 | 6,1 | 3.36441,6
+Inside Ellipse without Angle isInside: 0 | -2,6 | 10.7288,0 |  | 0.5,0.5 | 3.36441,6
+Inside Complex Graphic Object isInside: -6,6 | -9.36441,0
+Inside Ellipse without Angle isInside: 0 | 2,6 | 2.72882,0 |  | 0.5,0.5 | 3.36441,6
+Inside Rectangle without Angle isInside: 1 | 5,6 | 6,1 | 3.36441,6
+Before Check Frog: SafeInWater | -7,22 | -16 | -7,6 | 14 | 27 | 
+Inside Complex Graphic Object isInside: -7,6 | 10.0027,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 1.9945,12 |  | 0.5,0.5 | -17.0027,6
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | -17.0027,6
+Inside Ellipse without Angle isInside: 0 | -14,0 | -6.0055,12 |  | 0.5,0.5 | -17.0027,6
+Inside Complex Graphic Object isInside: -7,6 | 19.9945,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | -16.4973,4 |  | 2,1 | -26.9945,6
+Inside Complex Graphic Object isInside: -7,6 | -9.99172,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | -2.01655,4 |  | 0.5,0.5 | 2.99172,6
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | 2.99172,6
+Inside Ellipse without Angle isInside: 0 | 8,4 | -10.0166,4 |  | 0.5,0.5 | 2.99172,6
+Inside Complex Graphic Object isInside: -7,6 | -9.99172,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | -18.0166,4 |  | 0.5,0.5 | 2.99172,6
+Inside Rectangle without Angle isInside: 0 | 14,4 | 4,1 | 2.99172,6
+Inside Ellipse without Angle isInside: 0 | 16,4 | -26.0166,4 |  | 0.5,0.5 | 2.99172,6
+Inside Complex Graphic Object isInside: -7,6 | -19.9945,0
+Inside Ellipse without Angle isInside: 0 | -13,8 | 12.9973,-2 |  | 2,1 | 12.9945,6
+Inside Ellipse without Angle isInside: 0 | -8,8 | 10.4973,-2 |  | 2,1 | 12.9945,6
+Inside Ellipse without Angle isInside: 0 | -3,8 | 7.99725,-2 |  | 2,1 | 12.9945,6
+Inside Complex Graphic Object isInside: -7,6 | -19.9945,0
+Inside Ellipse without Angle isInside: 0 | 7,8 | 2.99725,-2 |  | 2,1 | 12.9945,6
+Inside Ellipse without Angle isInside: 0 | 12,8 | 0.497252,-2 |  | 2,1 | 12.9945,6
+Inside Ellipse without Angle isInside: 0 | 17,8 | -2.00275,-2 |  | 2,1 | 12.9945,6
+Inside Complex Graphic Object isInside: -7,6 | -10.0027,0
+Inside Ellipse without Angle isInside: 0 | -18,6 | 42.0055,0 |  | 0.5,0.5 | 3.00275,6
+Inside Rectangle without Angle isInside: 0 | -15,6 | 6,1 | 3.00275,6
+Inside Ellipse without Angle isInside: 0 | -12,6 | 30.0055,0 |  | 0.5,0.5 | 3.00275,6
+Inside Complex Graphic Object isInside: -7,6 | -10.0027,0
+Inside Ellipse without Angle isInside: 0 | -8,6 | 22.0055,0 |  | 0.5,0.5 | 3.00275,6
+Inside Rectangle without Angle isInside: 0 | -5,6 | 6,1 | 3.00275,6
+Inside Ellipse without Angle isInside: 0 | -2,6 | 10.0055,0 |  | 0.5,0.5 | 3.00275,6
+Inside Complex Graphic Object isInside: -7,6 | -10.0027,0
+Inside Ellipse without Angle isInside: 0 | 2,6 | 2.0055,0 |  | 0.5,0.5 | 3.00275,6
+Inside Rectangle without Angle isInside: 1 | 5,6 | 6,1 | 3.00275,6
+Before Check Frog: SafeInWater | -7,24 | -16 | -7,8 | 14 | 27 | 
+Inside Complex Graphic Object isInside: -7,8 | 10.2887,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 1.42269,16 |  | 0.5,0.5 | -17.2887,8
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | -17.2887,8
+Inside Ellipse without Angle isInside: 0 | -14,0 | -6.57731,16 |  | 0.5,0.5 | -17.2887,8
+Inside Complex Graphic Object isInside: -7,8 | 19.4227,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | -16.2113,6 |  | 2,1 | -26.4227,8
+Inside Complex Graphic Object isInside: -7,8 | -9.13397,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | -3.73206,8 |  | 0.5,0.5 | 2.13397,8
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | 2.13397,8
+Inside Ellipse without Angle isInside: 0 | 8,4 | -11.7321,8 |  | 0.5,0.5 | 2.13397,8
+Inside Complex Graphic Object isInside: -7,8 | -9.13397,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | -19.7321,8 |  | 0.5,0.5 | 2.13397,8
+Inside Rectangle without Angle isInside: 0 | 14,4 | 4,1 | 2.13397,8
+Inside Ellipse without Angle isInside: 0 | 16,4 | -27.7321,8 |  | 0.5,0.5 | 2.13397,8
+Inside Complex Graphic Object isInside: -7,8 | -19.4227,0
+Inside Ellipse without Angle isInside: 0 | -13,8 | 12.7113,0 |  | 2,1 | 12.4227,8
+Inside Ellipse without Angle isInside: 0 | -8,8 | 10.2113,0 |  | 2,1 | 12.4227,8
+Inside Ellipse without Angle isInside: 0 | -3,8 | 7.71134,0 |  | 2,1 | 12.4227,8
+Inside Complex Graphic Object isInside: -7,8 | -19.4227,0
+Inside Ellipse without Angle isInside: 0 | 7,8 | 2.71134,0 |  | 2,1 | 12.4227,8
+Inside Ellipse without Angle isInside: 1 | 12,8 | 0.211344,0 |  | 2,1 | 12.4227,8
+Before Check Frog: SafeInWater | -7,26 | -16 | -7,10 | 14 | 27 | 
+Inside Complex Graphic Object isInside: -7,10 | 10.9218,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 0.156387,20 |  | 0.5,0.5 | -17.9218,10
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | -17.9218,10
+Inside Ellipse without Angle isInside: 0 | -14,0 | -7.84361,20 |  | 0.5,0.5 | -17.9218,10
+Inside Complex Graphic Object isInside: -7,10 | 18.1564,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | -15.5782,8 |  | 2,1 | -25.1564,10
+Inside Complex Graphic Object isInside: -7,10 | -7.23451,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | -7.53098,12 |  | 0.5,0.5 | 0.234509,10
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | 0.234509,10
+Inside Ellipse without Angle isInside: 0 | 8,4 | -15.531,12 |  | 0.5,0.5 | 0.234509,10
+Inside Complex Graphic Object isInside: -7,10 | -7.23451,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | -23.531,12 |  | 0.5,0.5 | 0.234509,10
+Inside Rectangle without Angle isInside: 0 | 14,4 | 4,1 | 0.234509,10
+Inside Ellipse without Angle isInside: 0 | 16,4 | -31.531,12 |  | 0.5,0.5 | 0.234509,10
+Inside Complex Graphic Object isInside: -7,10 | -18.1564,0
+Inside Ellipse without Angle isInside: 0 | -13,8 | 12.0782,2 |  | 2,1 | 11.1564,10
+Inside Ellipse without Angle isInside: 0 | -8,8 | 9.57819,2 |  | 2,1 | 11.1564,10
+Inside Ellipse without Angle isInside: 0 | -3,8 | 7.07819,2 |  | 2,1 | 11.1564,10
+Inside Complex Graphic Object isInside: -7,10 | -18.1564,0
+Inside Ellipse without Angle isInside: 0 | 7,8 | 2.07819,2 |  | 2,1 | 11.1564,10
+Inside Ellipse without Angle isInside: 0 | 12,8 | -0.421805,2 |  | 2,1 | 11.1564,10
+Inside Ellipse without Angle isInside: 0 | 17,8 | -2.92181,2 |  | 2,1 | 11.1564,10
+Inside Complex Graphic Object isInside: -7,10 | -10.9218,0
+Inside Ellipse without Angle isInside: 0 | -18,6 | 43.8436,8 |  | 0.5,0.5 | 3.92181,10
+Inside Rectangle without Angle isInside: 0 | -15,6 | 6,1 | 3.92181,10
+Inside Ellipse without Angle isInside: 0 | -12,6 | 31.8436,8 |  | 0.5,0.5 | 3.92181,10
+Inside Complex Graphic Object isInside: -7,10 | -10.9218,0
+Inside Ellipse without Angle isInside: 0 | -8,6 | 23.8436,8 |  | 0.5,0.5 | 3.92181,10
+Inside Rectangle without Angle isInside: 0 | -5,6 | 6,1 | 3.92181,10
+Inside Ellipse without Angle isInside: 0 | -2,6 | 11.8436,8 |  | 0.5,0.5 | 3.92181,10
+Inside Complex Graphic Object isInside: -7,10 | -10.9218,0
+Inside Ellipse without Angle isInside: 0 | 2,6 | 3.84361,8 |  | 0.5,0.5 | 3.92181,10
+Inside Rectangle without Angle isInside: 0 | 5,6 | 6,1 | 3.92181,10
+Inside Ellipse without Angle isInside: 0 | 8,6 | -8.15639,8 |  | 0.5,0.5 | 3.92181,10
+Inside Complex Graphic Object isInside: -7,10 | -10.9218,0
+Inside Ellipse without Angle isInside: 0 | 12,6 | -16.1564,8 |  | 0.5,0.5 | 3.92181,10
+Inside Rectangle without Angle isInside: 0 | 15,6 | 6,1 | 3.92181,10
+Inside Ellipse without Angle isInside: 0 | 18,6 | -28.1564,8 |  | 0.5,0.5 | 3.92181,10
+Inside Complex Graphic Object isInside: -7,10 | -10.9218,0
+Inside Ellipse without Angle isInside: 0 | 22,6 | -36.1564,8 |  | 0.5,0.5 | 3.92181,10
+Inside Rectangle without Angle isInside: 0 | 25,6 | 6,1 | 3.92181,10
+Inside Ellipse without Angle isInside: 0 | 28,6 | -48.1564,8 |  | 0.5,0.5 | 3.92181,10
+Inside Complex Graphic Object isInside: -7,10 | 7.23451,0
+Inside Ellipse without Angle isInside: 0 | -22,10 | 15.531,0 |  | 0.5,0.5 | -14.2345,10
+Inside Rectangle without Angle isInside: 0 | -20,10 | 4,1 | -14.2345,10
+Inside Ellipse without Angle isInside: 0 | -18,10 | 7.53098,0 |  | 0.5,0.5 | -14.2345,10
+Inside Complex Graphic Object isInside: -7,10 | 7.23451,0
+Inside Ellipse without Angle isInside: 0 | -16,10 | 3.53098,0 |  | 0.5,0.5 | -14.2345,10
+Inside Rectangle without Angle isInside: 1 | -14,10 | 4,1 | -14.2345,10
+Before Check Frog: SafeInWater | -8,26 | -16 | -8,10 | 14 | 27 | 
+Inside Complex Graphic Object isInside: -8,10 | 11.3318,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | -2.66351,20 |  | 0.5,0.5 | -19.3318,10
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | -19.3318,10
+Inside Ellipse without Angle isInside: 0 | -14,0 | -10.6635,20 |  | 0.5,0.5 | -19.3318,10
+Inside Complex Graphic Object isInside: -8,10 | 17.3365,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | -15.6682,8 |  | 2,1 | -25.3365,10
+Inside Complex Graphic Object isInside: -8,10 | -6.00468,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | -11.9906,12 |  | 0.5,0.5 | -1.99532,10
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | -1.99532,10
+Inside Ellipse without Angle isInside: 0 | 8,4 | -19.9906,12 |  | 0.5,0.5 | -1.99532,10
+Inside Complex Graphic Object isInside: -8,10 | -6.00468,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | -27.9906,12 |  | 0.5,0.5 | -1.99532,10
+Inside Rectangle without Angle isInside: 0 | 14,4 | 4,1 | -1.99532,10
+Inside Ellipse without Angle isInside: 0 | 16,4 | -35.9906,12 |  | 0.5,0.5 | -1.99532,10
+Inside Complex Graphic Object isInside: -8,10 | -17.3365,0
+Inside Ellipse without Angle isInside: 0 | -13,8 | 11.1682,2 |  | 2,1 | 9.33649,10
+Inside Ellipse without Angle isInside: 0 | -8,8 | 8.66824,2 |  | 2,1 | 9.33649,10
+Inside Ellipse without Angle isInside: 0 | -3,8 | 6.16824,2 |  | 2,1 | 9.33649,10
+Inside Complex Graphic Object isInside: -8,10 | -17.3365,0
+Inside Ellipse without Angle isInside: 0 | 7,8 | 1.16824,2 |  | 2,1 | 9.33649,10
+Inside Ellipse without Angle isInside: 0 | 12,8 | -1.33176,2 |  | 2,1 | 9.33649,10
+Inside Ellipse without Angle isInside: 0 | 17,8 | -3.83176,2 |  | 2,1 | 9.33649,10
+Inside Complex Graphic Object isInside: -8,10 | -11.3318,0
+Inside Ellipse without Angle isInside: 0 | -18,6 | 42.6635,8 |  | 0.5,0.5 | 3.33176,10
+Inside Rectangle without Angle isInside: 0 | -15,6 | 6,1 | 3.33176,10
+Inside Ellipse without Angle isInside: 0 | -12,6 | 30.6635,8 |  | 0.5,0.5 | 3.33176,10
+Inside Complex Graphic Object isInside: -8,10 | -11.3318,0
+Inside Ellipse without Angle isInside: 0 | -8,6 | 22.6635,8 |  | 0.5,0.5 | 3.33176,10
+Inside Rectangle without Angle isInside: 0 | -5,6 | 6,1 | 3.33176,10
+Inside Ellipse without Angle isInside: 0 | -2,6 | 10.6635,8 |  | 0.5,0.5 | 3.33176,10
+Inside Complex Graphic Object isInside: -8,10 | -11.3318,0
+Inside Ellipse without Angle isInside: 0 | 2,6 | 2.66351,8 |  | 0.5,0.5 | 3.33176,10
+Inside Rectangle without Angle isInside: 0 | 5,6 | 6,1 | 3.33176,10
+Inside Ellipse without Angle isInside: 0 | 8,6 | -9.33649,8 |  | 0.5,0.5 | 3.33176,10
+Inside Complex Graphic Object isInside: -8,10 | -11.3318,0
+Inside Ellipse without Angle isInside: 0 | 12,6 | -17.3365,8 |  | 0.5,0.5 | 3.33176,10
+Inside Rectangle without Angle isInside: 0 | 15,6 | 6,1 | 3.33176,10
+Inside Ellipse without Angle isInside: 0 | 18,6 | -29.3365,8 |  | 0.5,0.5 | 3.33176,10
+Inside Complex Graphic Object isInside: -8,10 | -11.3318,0
+Inside Ellipse without Angle isInside: 0 | 22,6 | -37.3365,8 |  | 0.5,0.5 | 3.33176,10
+Inside Rectangle without Angle isInside: 0 | 25,6 | 6,1 | 3.33176,10
+Inside Ellipse without Angle isInside: 0 | 28,6 | -49.3365,8 |  | 0.5,0.5 | 3.33176,10
+Inside Complex Graphic Object isInside: -8,10 | 6.00468,0
+Inside Ellipse without Angle isInside: 0 | -22,10 | 15.9906,0 |  | 0.5,0.5 | -14.0047,10
+Inside Rectangle without Angle isInside: 0 | -20,10 | 4,1 | -14.0047,10
+Inside Ellipse without Angle isInside: 0 | -18,10 | 7.99064,0 |  | 0.5,0.5 | -14.0047,10
+Inside Complex Graphic Object isInside: -8,10 | 6.00468,0
+Inside Ellipse without Angle isInside: 0 | -16,10 | 3.99064,0 |  | 0.5,0.5 | -14.0047,10
+Inside Rectangle without Angle isInside: 1 | -14,10 | 4,1 | -14.0047,10
+Before Check Frog: SafeInWater | -8,28 | -16 | -8,12 | 14 | 27 | 
+Before Check Frog: Score! | -8,2 | -16 | -8,-14 | 14 | 27 | 
+Before Check Frog: Road | -8,4 | -16 | -8,-12 | 14 | 27 | 
+Before Check Frog: Road | -8,6 | -16 | -8,-10 | 14 | 27 | 
+Before Check Frog: Road | -8,8 | -16 | -8,-8 | 14 | 27 | 
+Before Check Frog: Road | -8,10 | -16 | -8,-6 | 14 | 27 | 
+Before Check Frog: Road | -8,12 | -16 | -8,-4 | 14 | 27 | 
+Before Check Frog: Road | -8,14 | -16 | -8,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -8,16 | -16 | -8,0 | 14 | 27 | 
+Inside Complex Graphic Object isInside: -8,0 | 14.4837,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | -8.96746,0 |  | 0.5,0.5 | -22.4837,0
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | -22.4837,0
+Inside Ellipse without Angle isInside: 0 | -14,0 | -16.9675,0 |  | 0.5,0.5 | -22.4837,0
+Inside Complex Graphic Object isInside: -8,0 | 11.0325,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | -12.5163,-2 |  | 2,1 | -19.0325,0
+Inside Complex Graphic Object isInside: -8,0 | 3.45126,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | -30.9025,-8 |  | 0.5,0.5 | -11.4513,0
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | -11.4513,0
+Inside Ellipse without Angle isInside: 0 | 8,4 | -38.9025,-8 |  | 0.5,0.5 | -11.4513,0
+Inside Complex Graphic Object isInside: -8,0 | 3.45126,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | -46.9025,-8 |  | 0.5,0.5 | -11.4513,0
+Inside Rectangle without Angle isInside: 0 | 14,4 | 4,1 | -11.4513,0
+Inside Ellipse without Angle isInside: 0 | 16,4 | -54.9025,-8 |  | 0.5,0.5 | -11.4513,0
+Inside Complex Graphic Object isInside: -8,0 | -11.0325,0
+Inside Ellipse without Angle isInside: 0 | -13,8 | 8.01626,-8 |  | 2,1 | 3.03253,0
+Inside Ellipse without Angle isInside: 0 | -8,8 | 5.51626,-8 |  | 2,1 | 3.03253,0
+Inside Ellipse without Angle isInside: 0 | -3,8 | 3.01626,-8 |  | 2,1 | 3.03253,0
+Inside Complex Graphic Object isInside: -8,0 | -11.0325,0
+Inside Ellipse without Angle isInside: 0 | 7,8 | -1.98374,-8 |  | 2,1 | 3.03253,0
+Inside Ellipse without Angle isInside: 0 | 12,8 | -4.48374,-8 |  | 2,1 | 3.03253,0
+Inside Ellipse without Angle isInside: 0 | 17,8 | -6.98374,-8 |  | 2,1 | 3.03253,0
+Inside Complex Graphic Object isInside: -8,0 | -14.4837,0
+Inside Ellipse without Angle isInside: 0 | -18,6 | 48.9675,-12 |  | 0.5,0.5 | 6.48373,0
+Inside Rectangle without Angle isInside: 0 | -15,6 | 6,1 | 6.48373,0
+Inside Ellipse without Angle isInside: 0 | -12,6 | 36.9675,-12 |  | 0.5,0.5 | 6.48373,0
+Inside Complex Graphic Object isInside: -8,0 | -14.4837,0
+Inside Ellipse without Angle isInside: 0 | -8,6 | 28.9675,-12 |  | 0.5,0.5 | 6.48373,0
+Inside Rectangle without Angle isInside: 0 | -5,6 | 6,1 | 6.48373,0
+Inside Ellipse without Angle isInside: 0 | -2,6 | 16.9675,-12 |  | 0.5,0.5 | 6.48373,0
+Inside Complex Graphic Object isInside: -8,0 | -14.4837,0
+Inside Ellipse without Angle isInside: 0 | 2,6 | 8.96746,-12 |  | 0.5,0.5 | 6.48373,0
+Inside Rectangle without Angle isInside: 0 | 5,6 | 6,1 | 6.48373,0
+Inside Ellipse without Angle isInside: 0 | 8,6 | -3.03254,-12 |  | 0.5,0.5 | 6.48373,0
+Inside Complex Graphic Object isInside: -8,0 | -14.4837,0
+Inside Ellipse without Angle isInside: 0 | 12,6 | -11.0325,-12 |  | 0.5,0.5 | 6.48373,0
+Inside Rectangle without Angle isInside: 0 | 15,6 | 6,1 | 6.48373,0
+Inside Ellipse without Angle isInside: 0 | 18,6 | -23.0325,-12 |  | 0.5,0.5 | 6.48373,0
+Inside Complex Graphic Object isInside: -8,0 | -14.4837,0
+Inside Ellipse without Angle isInside: 0 | 22,6 | -31.0325,-12 |  | 0.5,0.5 | 6.48373,0
+Inside Rectangle without Angle isInside: 0 | 25,6 | 6,1 | 6.48373,0
+Inside Ellipse without Angle isInside: 0 | 28,6 | -43.0325,-12 |  | 0.5,0.5 | 6.48373,0
+Inside Complex Graphic Object isInside: -8,0 | -3.45126,0
+Inside Ellipse without Angle isInside: 0 | -22,10 | 34.9025,-20 |  | 0.5,0.5 | -4.54874,0
+Inside Rectangle without Angle isInside: 0 | -20,10 | 4,1 | -4.54874,0
+Inside Ellipse without Angle isInside: 0 | -18,10 | 26.9025,-20 |  | 0.5,0.5 | -4.54874,0
+Inside Complex Graphic Object isInside: -8,0 | -3.45126,0
+Inside Ellipse without Angle isInside: 0 | -16,10 | 22.9025,-20 |  | 0.5,0.5 | -4.54874,0
+Inside Rectangle without Angle isInside: 0 | -14,10 | 4,1 | -4.54874,0
+Inside Ellipse without Angle isInside: 0 | -12,10 | 14.9025,-20 |  | 0.5,0.5 | -4.54874,0
+Inside Complex Graphic Object isInside: -8,0 | -3.45126,0
+Inside Ellipse without Angle isInside: 0 | -10,10 | 10.9025,-20 |  | 0.5,0.5 | -4.54874,0
+Inside Rectangle without Angle isInside: 0 | -8,10 | 4,1 | -4.54874,0
+Inside Ellipse without Angle isInside: 0 | -6,10 | 2.90251,-20 |  | 0.5,0.5 | -4.54874,0
+Inside Complex Graphic Object isInside: -8,0 | -3.45126,0
+Inside Ellipse without Angle isInside: 0 | -4,10 | -1.09749,-20 |  | 0.5,0.5 | -4.54874,0
+Inside Rectangle without Angle isInside: 0 | -2,10 | 4,1 | -4.54874,0
+Inside Ellipse without Angle isInside: 0 | 0,10 | -9.09749,-20 |  | 0.5,0.5 | -4.54874,0
+Inside Complex Graphic Object isInside: -8,0 | -3.45126,0
+Inside Ellipse without Angle isInside: 0 | 2,10 | -13.0975,-20 |  | 0.5,0.5 | -4.54874,0
+Inside Rectangle without Angle isInside: 0 | 4,10 | 4,1 | -4.54874,0
+Inside Ellipse without Angle isInside: 0 | 6,10 | -21.0975,-20 |  | 0.5,0.5 | -4.54874,0
+Inside Complex Graphic Object isInside: -8,0 | -3.45126,0
+Inside Ellipse without Angle isInside: 0 | 8,10 | -25.0975,-20 |  | 0.5,0.5 | -4.54874,0
+Inside Rectangle without Angle isInside: 0 | 10,10 | 4,1 | -4.54874,0
+Inside Ellipse without Angle isInside: 0 | 12,10 | -33.0975,-20 |  | 0.5,0.5 | -4.54874,0
+Before Check Frog: Dead Water! | -8,2 | -16 | -8,-14 | 14 | 27 | 
+Before Check Frog: Road | -8,4 | -16 | -8,-12 | 14 | 27 | 
+Before Check Frog: Road | -8,6 | -16 | -8,-10 | 14 | 27 | 
+Before Check Frog: Road | -8,8 | -16 | -8,-8 | 14 | 27 | 
+Before Check Frog: Road | -8,10 | -16 | -8,-6 | 14 | 27 | 
+Before Check Frog: Road | -8,12 | -16 | -8,-4 | 14 | 27 | 
+Before Check Frog: Road | -8,14 | -16 | -8,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -7,14 | -16 | -7,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -6,14 | -16 | -6,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -5,14 | -16 | -5,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -4,14 | -16 | -4,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -3,14 | -16 | -3,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -2,14 | -16 | -2,-2 | 14 | 27 | 
+Before Check Frog: Safe. | -1,14 | -16 | -1,-2 | 14 | 27 | 
+Before Check Frog: Safe. | 0,14 | -16 | 0,-2 | 14 | 27 | 
+Before Check Frog: Safe. | 1,14 | -16 | 1,-2 | 14 | 27 | 
+Before Check Frog: Safe. | 2,14 | -16 | 2,-2 | 14 | 27 | 
+Before Check Frog: Safe. | 3,14 | -16 | 3,-2 | 14 | 27 | 
+Before Check Frog: Safe. | 4,14 | -16 | 4,-2 | 14 | 27 | 
+Before Check Frog: Safe. | 4,16 | -16 | 4,0 | 14 | 27 | 
+Inside Complex Graphic Object isInside: 4,0 | 19.0358,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 5.92847,0 |  | 0.5,0.5 | -15.0358,0
+Inside Rectangle without Angle isInside: 1 | -16,0 | 4,1 | -15.0358,0
+Before Check Frog: SafeInWater | 5,16 | -16 | 5,0 | 14 | 27 | 
+Inside Complex Graphic Object isInside: 5,0 | 19.9716,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 6.05675,0 |  | 0.5,0.5 | -14.9716,0
+Inside Rectangle without Angle isInside: 1 | -16,0 | 4,1 | -14.9716,0
+Before Check Frog: SafeInWater | 5,18 | -16 | 5,2 | 14 | 27 | 
+Inside Complex Graphic Object isInside: 5,2 | -19.6849,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 85.3699,4 |  | 0.5,0.5 | 24.6849,2
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | 24.6849,2
+Inside Ellipse without Angle isInside: 0 | -14,0 | 77.3699,4 |  | 0.5,0.5 | 24.6849,2
+Inside Complex Graphic Object isInside: 5,2 | -0.630095,0
+Inside Ellipse without Angle isInside: 1 | 6,2 | -0.184953,0 |  | 2,1 | 5.63009,2
+Before Check Frog: SafeInWater | 4,18 | -16 | 4,2 | 14 | 27 | 
+Inside Complex Graphic Object isInside: 4,2 | -19.1271,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 82.2541,4 |  | 0.5,0.5 | 23.1271,2
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | 23.1271,2
+Inside Ellipse without Angle isInside: 0 | -14,0 | 74.2541,4 |  | 0.5,0.5 | 23.1271,2
+Inside Complex Graphic Object isInside: 4,2 | -1.74584,0
+Inside Ellipse without Angle isInside: 1 | 6,2 | -0.127079,0 |  | 2,1 | 5.74584,2
+Before Check Frog: SafeInWater | 3,18 | -16 | 3,2 | 14 | 27 | 
+Inside Complex Graphic Object isInside: 3,2 | -18.917,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 79.834,4 |  | 0.5,0.5 | 21.917,2
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | 21.917,2
+Inside Ellipse without Angle isInside: 0 | -14,0 | 71.834,4 |  | 0.5,0.5 | 21.917,2
+Inside Complex Graphic Object isInside: 3,2 | -2.16593,0
+Inside Ellipse without Angle isInside: 1 | 6,2 | -0.417037,0 |  | 2,1 | 5.16593,2
+Before Check Frog: SafeInWater | 2,18 | -16 | 2,2 | 14 | 27 | 
+Inside Complex Graphic Object isInside: 2,2 | -18.4291,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 76.8582,4 |  | 0.5,0.5 | 20.4291,2
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | 20.4291,2
+Inside Ellipse without Angle isInside: 0 | -14,0 | 68.8582,4 |  | 0.5,0.5 | 20.4291,2
+Inside Complex Graphic Object isInside: 2,2 | -3.14172,0
+Inside Ellipse without Angle isInside: 1 | 6,2 | -0.429139,0 |  | 2,1 | 5.14172,2
+Before Check Frog: SafeInWater | 2,20 | -16 | 2,4 | 14 | 27 | 
+Inside Complex Graphic Object isInside: 2,4 | -17.6609,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 75.3218,8 |  | 0.5,0.5 | 19.6609,4
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | 19.6609,4
+Inside Ellipse without Angle isInside: 0 | -14,0 | 67.3218,8 |  | 0.5,0.5 | 19.6609,4
+Inside Complex Graphic Object isInside: 2,4 | -4.67819,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | 0.339095,2 |  | 2,1 | 6.67819,4
+Inside Complex Graphic Object isInside: 2,4 | -12.9827,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | 21.9653,0 |  | 0.5,0.5 | 14.9827,4
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | 14.9827,4
+Inside Ellipse without Angle isInside: 0 | 8,4 | 13.9653,0 |  | 0.5,0.5 | 14.9827,4
+Inside Complex Graphic Object isInside: 2,4 | -12.9827,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | 5.96534,0 |  | 0.5,0.5 | 14.9827,4
+Inside Rectangle without Angle isInside: 1 | 14,4 | 4,1 | 14.9827,4
+Before Check Frog: SafeInWater | 2,22 | -16 | 2,6 | 14 | 27 | 
+Inside Complex Graphic Object isInside: 2,6 | -17.3159,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 74.6318,12 |  | 0.5,0.5 | 19.3159,6
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | 19.3159,6
+Inside Ellipse without Angle isInside: 0 | -14,0 | 66.6318,12 |  | 0.5,0.5 | 19.3159,6
+Inside Complex Graphic Object isInside: 2,6 | -5.36817,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | 0.684087,4 |  | 2,1 | 7.36817,6
+Inside Complex Graphic Object isInside: 2,6 | -11.9477,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | 19.8954,4 |  | 0.5,0.5 | 13.9477,6
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | 13.9477,6
+Inside Ellipse without Angle isInside: 0 | 8,4 | 11.8954,4 |  | 0.5,0.5 | 13.9477,6
+Inside Complex Graphic Object isInside: 2,6 | -11.9477,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | 3.89538,4 |  | 0.5,0.5 | 13.9477,6
+Inside Rectangle without Angle isInside: 0 | 14,4 | 4,1 | 13.9477,6
+Inside Ellipse without Angle isInside: 0 | 16,4 | -4.10462,4 |  | 0.5,0.5 | 13.9477,6
+Inside Complex Graphic Object isInside: 2,6 | 5.36817,0
+Inside Ellipse without Angle isInside: 0 | -13,8 | 4.81591,-2 |  | 2,1 | -3.36817,6
+Inside Ellipse without Angle isInside: 0 | -8,8 | 2.31591,-2 |  | 2,1 | -3.36817,6
+Inside Ellipse without Angle isInside: 0 | -3,8 | -0.184087,-2 |  | 2,1 | -3.36817,6
+Inside Complex Graphic Object isInside: 2,6 | 5.36817,0
+Inside Ellipse without Angle isInside: 0 | 7,8 | -5.18409,-2 |  | 2,1 | -3.36817,6
+Inside Ellipse without Angle isInside: 0 | 12,8 | -7.68409,-2 |  | 2,1 | -3.36817,6
+Inside Ellipse without Angle isInside: 0 | 17,8 | -10.1841,-2 |  | 2,1 | -3.36817,6
+Inside Complex Graphic Object isInside: 2,6 | 17.3159,0
+Inside Ellipse without Angle isInside: 0 | -18,6 | 5.36816,0 |  | 0.5,0.5 | -15.3159,6
+Inside Rectangle without Angle isInside: 1 | -15,6 | 6,1 | -15.3159,6
+Before Check Frog: SafeInWater | 2,24 | -16 | 2,8 | 14 | 27 | 
+Inside Complex Graphic Object isInside: 2,8 | -16.7961,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 73.5922,16 |  | 0.5,0.5 | 18.7961,8
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | 18.7961,8
+Inside Ellipse without Angle isInside: 0 | -14,0 | 65.5922,16 |  | 0.5,0.5 | 18.7961,8
+Inside Complex Graphic Object isInside: 2,8 | -6.40779,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | 1.20389,6 |  | 2,1 | 8.40779,8
+Inside Complex Graphic Object isInside: 2,8 | -10.3883,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | 16.7765,8 |  | 0.5,0.5 | 12.3883,8
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | 12.3883,8
+Inside Ellipse without Angle isInside: 0 | 8,4 | 8.77653,8 |  | 0.5,0.5 | 12.3883,8
+Inside Complex Graphic Object isInside: 2,8 | -10.3883,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | 0.776531,8 |  | 0.5,0.5 | 12.3883,8
+Inside Rectangle without Angle isInside: 0 | 14,4 | 4,1 | 12.3883,8
+Inside Ellipse without Angle isInside: 0 | 16,4 | -7.22347,8 |  | 0.5,0.5 | 12.3883,8
+Inside Complex Graphic Object isInside: 2,8 | 6.40779,0
+Inside Ellipse without Angle isInside: 0 | -13,8 | 4.29611,0 |  | 2,1 | -4.40779,8
+Inside Ellipse without Angle isInside: 0 | -8,8 | 1.79611,0 |  | 2,1 | -4.40779,8
+Inside Ellipse without Angle isInside: 1 | -3,8 | -0.703895,0 |  | 2,1 | -4.40779,8
+Before Check Frog: SafeInWater | 2,26 | -16 | 2,10 | 14 | 27 | 
+Inside Complex Graphic Object isInside: 2,10 | -15.4127,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 70.8254,20 |  | 0.5,0.5 | 17.4127,10
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | 17.4127,10
+Inside Ellipse without Angle isInside: 0 | -14,0 | 62.8254,20 |  | 0.5,0.5 | 17.4127,10
+Inside Complex Graphic Object isInside: 2,10 | -9.17454,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | 2.58727,8 |  | 2,1 | 11.1745,10
+Inside Complex Graphic Object isInside: 2,10 | -6.23816,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | 8.47631,12 |  | 0.5,0.5 | 8.23816,10
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | 8.23816,10
+Inside Ellipse without Angle isInside: 0 | 8,4 | 0.476315,12 |  | 0.5,0.5 | 8.23816,10
+Inside Complex Graphic Object isInside: 2,10 | -6.23816,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | -7.52369,12 |  | 0.5,0.5 | 8.23816,10
+Inside Rectangle without Angle isInside: 0 | 14,4 | 4,1 | 8.23816,10
+Inside Ellipse without Angle isInside: 0 | 16,4 | -15.5237,12 |  | 0.5,0.5 | 8.23816,10
+Inside Complex Graphic Object isInside: 2,10 | 9.17454,0
+Inside Ellipse without Angle isInside: 0 | -13,8 | 2.91273,2 |  | 2,1 | -7.17454,10
+Inside Ellipse without Angle isInside: 0 | -8,8 | 0.412731,2 |  | 2,1 | -7.17454,10
+Inside Ellipse without Angle isInside: 0 | -3,8 | -2.08727,2 |  | 2,1 | -7.17454,10
+Inside Complex Graphic Object isInside: 2,10 | 9.17454,0
+Inside Ellipse without Angle isInside: 0 | 7,8 | -7.08727,2 |  | 2,1 | -7.17454,10
+Inside Ellipse without Angle isInside: 0 | 12,8 | -9.58727,2 |  | 2,1 | -7.17454,10
+Inside Ellipse without Angle isInside: 0 | 17,8 | -12.0873,2 |  | 2,1 | -7.17454,10
+Inside Complex Graphic Object isInside: 2,10 | 15.4127,0
+Inside Ellipse without Angle isInside: 0 | -18,6 | 9.17457,8 |  | 0.5,0.5 | -13.4127,10
+Inside Rectangle without Angle isInside: 0 | -15,6 | 6,1 | -13.4127,10
+Inside Ellipse without Angle isInside: 0 | -12,6 | -2.82543,8 |  | 0.5,0.5 | -13.4127,10
+Inside Complex Graphic Object isInside: 2,10 | 15.4127,0
+Inside Ellipse without Angle isInside: 0 | -8,6 | -10.8254,8 |  | 0.5,0.5 | -13.4127,10
+Inside Rectangle without Angle isInside: 0 | -5,6 | 6,1 | -13.4127,10
+Inside Ellipse without Angle isInside: 0 | -2,6 | -22.8254,8 |  | 0.5,0.5 | -13.4127,10
+Inside Complex Graphic Object isInside: 2,10 | 15.4127,0
+Inside Ellipse without Angle isInside: 0 | 2,6 | -30.8254,8 |  | 0.5,0.5 | -13.4127,10
+Inside Rectangle without Angle isInside: 0 | 5,6 | 6,1 | -13.4127,10
+Inside Ellipse without Angle isInside: 0 | 8,6 | -42.8254,8 |  | 0.5,0.5 | -13.4127,10
+Inside Complex Graphic Object isInside: 2,10 | 15.4127,0
+Inside Ellipse without Angle isInside: 0 | 12,6 | -50.8254,8 |  | 0.5,0.5 | -13.4127,10
+Inside Rectangle without Angle isInside: 0 | 15,6 | 6,1 | -13.4127,10
+Inside Ellipse without Angle isInside: 0 | 18,6 | -62.8254,8 |  | 0.5,0.5 | -13.4127,10
+Inside Complex Graphic Object isInside: 2,10 | 15.4127,0
+Inside Ellipse without Angle isInside: 0 | 22,6 | -70.8254,8 |  | 0.5,0.5 | -13.4127,10
+Inside Rectangle without Angle isInside: 0 | 25,6 | 6,1 | -13.4127,10
+Inside Ellipse without Angle isInside: 0 | 28,6 | -82.8254,8 |  | 0.5,0.5 | -13.4127,10
+Inside Complex Graphic Object isInside: 2,10 | 6.23816,0
+Inside Ellipse without Angle isInside: 0 | -22,10 | 35.5237,0 |  | 0.5,0.5 | -4.23816,10
+Inside Rectangle without Angle isInside: 0 | -20,10 | 4,1 | -4.23816,10
+Inside Ellipse without Angle isInside: 0 | -18,10 | 27.5237,0 |  | 0.5,0.5 | -4.23816,10
+Inside Complex Graphic Object isInside: 2,10 | 6.23816,0
+Inside Ellipse without Angle isInside: 0 | -16,10 | 23.5237,0 |  | 0.5,0.5 | -4.23816,10
+Inside Rectangle without Angle isInside: 0 | -14,10 | 4,1 | -4.23816,10
+Inside Ellipse without Angle isInside: 0 | -12,10 | 15.5237,0 |  | 0.5,0.5 | -4.23816,10
+Inside Complex Graphic Object isInside: 2,10 | 6.23816,0
+Inside Ellipse without Angle isInside: 0 | -10,10 | 11.5237,0 |  | 0.5,0.5 | -4.23816,10
+Inside Rectangle without Angle isInside: 0 | -8,10 | 4,1 | -4.23816,10
+Inside Ellipse without Angle isInside: 0 | -6,10 | 3.52369,0 |  | 0.5,0.5 | -4.23816,10
+Inside Complex Graphic Object isInside: 2,10 | 6.23816,0
+Inside Ellipse without Angle isInside: 1 | -4,10 | -0.476315,0 |  | 0.5,0.5 | -4.23816,10
+Before Check Frog: SafeInWater | 1,26 | -16 | 1,10 | 14 | 27 | 
+Inside Complex Graphic Object isInside: 1,10 | -14.6293,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 67.2586,20 |  | 0.5,0.5 | 15.6293,10
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | 15.6293,10
+Inside Ellipse without Angle isInside: 0 | -14,0 | 59.2586,20 |  | 0.5,0.5 | 15.6293,10
+Inside Complex Graphic Object isInside: 1,10 | -10.7413,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | 2.87066,8 |  | 2,1 | 11.7413,10
+Inside Complex Graphic Object isInside: 1,10 | -3.88798,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | 1.77596,12 |  | 0.5,0.5 | 4.88798,10
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | 4.88798,10
+Inside Ellipse without Angle isInside: 0 | 8,4 | -6.22404,12 |  | 0.5,0.5 | 4.88798,10
+Inside Complex Graphic Object isInside: 1,10 | -3.88798,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | -14.224,12 |  | 0.5,0.5 | 4.88798,10
+Inside Rectangle without Angle isInside: 0 | 14,4 | 4,1 | 4.88798,10
+Inside Ellipse without Angle isInside: 0 | 16,4 | -22.224,12 |  | 0.5,0.5 | 4.88798,10
+Inside Complex Graphic Object isInside: 1,10 | 10.7413,0
+Inside Ellipse without Angle isInside: 0 | -13,8 | 1.62934,2 |  | 2,1 | -9.74131,10
+Inside Ellipse without Angle isInside: 0 | -8,8 | -0.870657,2 |  | 2,1 | -9.74131,10
+Inside Ellipse without Angle isInside: 0 | -3,8 | -3.37066,2 |  | 2,1 | -9.74131,10
+Inside Complex Graphic Object isInside: 1,10 | 10.7413,0
+Inside Ellipse without Angle isInside: 0 | 7,8 | -8.37066,2 |  | 2,1 | -9.74131,10
+Inside Ellipse without Angle isInside: 0 | 12,8 | -10.8707,2 |  | 2,1 | -9.74131,10
+Inside Ellipse without Angle isInside: 0 | 17,8 | -13.3707,2 |  | 2,1 | -9.74131,10
+Inside Complex Graphic Object isInside: 1,10 | 14.6293,0
+Inside Ellipse without Angle isInside: 0 | -18,6 | 8.74138,8 |  | 0.5,0.5 | -13.6293,10
+Inside Rectangle without Angle isInside: 0 | -15,6 | 6,1 | -13.6293,10
+Inside Ellipse without Angle isInside: 0 | -12,6 | -3.25862,8 |  | 0.5,0.5 | -13.6293,10
+Inside Complex Graphic Object isInside: 1,10 | 14.6293,0
+Inside Ellipse without Angle isInside: 0 | -8,6 | -11.2586,8 |  | 0.5,0.5 | -13.6293,10
+Inside Rectangle without Angle isInside: 0 | -5,6 | 6,1 | -13.6293,10
+Inside Ellipse without Angle isInside: 0 | -2,6 | -23.2586,8 |  | 0.5,0.5 | -13.6293,10
+Inside Complex Graphic Object isInside: 1,10 | 14.6293,0
+Inside Ellipse without Angle isInside: 0 | 2,6 | -31.2586,8 |  | 0.5,0.5 | -13.6293,10
+Inside Rectangle without Angle isInside: 0 | 5,6 | 6,1 | -13.6293,10
+Inside Ellipse without Angle isInside: 0 | 8,6 | -43.2586,8 |  | 0.5,0.5 | -13.6293,10
+Inside Complex Graphic Object isInside: 1,10 | 14.6293,0
+Inside Ellipse without Angle isInside: 0 | 12,6 | -51.2586,8 |  | 0.5,0.5 | -13.6293,10
+Inside Rectangle without Angle isInside: 0 | 15,6 | 6,1 | -13.6293,10
+Inside Ellipse without Angle isInside: 0 | 18,6 | -63.2586,8 |  | 0.5,0.5 | -13.6293,10
+Inside Complex Graphic Object isInside: 1,10 | 14.6293,0
+Inside Ellipse without Angle isInside: 0 | 22,6 | -71.2586,8 |  | 0.5,0.5 | -13.6293,10
+Inside Rectangle without Angle isInside: 0 | 25,6 | 6,1 | -13.6293,10
+Inside Ellipse without Angle isInside: 0 | 28,6 | -83.2586,8 |  | 0.5,0.5 | -13.6293,10
+Inside Complex Graphic Object isInside: 1,10 | 3.88798,0
+Inside Ellipse without Angle isInside: 0 | -22,10 | 38.224,0 |  | 0.5,0.5 | -2.88798,10
+Inside Rectangle without Angle isInside: 0 | -20,10 | 4,1 | -2.88798,10
+Inside Ellipse without Angle isInside: 0 | -18,10 | 30.224,0 |  | 0.5,0.5 | -2.88798,10
+Inside Complex Graphic Object isInside: 1,10 | 3.88798,0
+Inside Ellipse without Angle isInside: 0 | -16,10 | 26.224,0 |  | 0.5,0.5 | -2.88798,10
+Inside Rectangle without Angle isInside: 0 | -14,10 | 4,1 | -2.88798,10
+Inside Ellipse without Angle isInside: 0 | -12,10 | 18.224,0 |  | 0.5,0.5 | -2.88798,10
+Inside Complex Graphic Object isInside: 1,10 | 3.88798,0
+Inside Ellipse without Angle isInside: 0 | -10,10 | 14.224,0 |  | 0.5,0.5 | -2.88798,10
+Inside Rectangle without Angle isInside: 0 | -8,10 | 4,1 | -2.88798,10
+Inside Ellipse without Angle isInside: 0 | -6,10 | 6.22404,0 |  | 0.5,0.5 | -2.88798,10
+Inside Complex Graphic Object isInside: 1,10 | 3.88798,0
+Inside Ellipse without Angle isInside: 0 | -4,10 | 2.22404,0 |  | 0.5,0.5 | -2.88798,10
+Inside Rectangle without Angle isInside: 1 | -2,10 | 4,1 | -2.88798,10
+Before Check Frog: SafeInWater | 0,26 | -16 | 0,10 | 14 | 27 | 
+Inside Complex Graphic Object isInside: 0,10 | -14.3938,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 64.7875,20 |  | 0.5,0.5 | 14.3938,10
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | 14.3938,10
+Inside Ellipse without Angle isInside: 0 | -14,0 | 56.7875,20 |  | 0.5,0.5 | 14.3938,10
+Inside Complex Graphic Object isInside: 0,10 | -11.2124,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | 2.6062,8 |  | 2,1 | 11.2124,10
+Inside Complex Graphic Object isInside: 0,10 | -3.18134,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | -1.63733,12 |  | 0.5,0.5 | 3.18134,10
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | 3.18134,10
+Inside Ellipse without Angle isInside: 0 | 8,4 | -9.63733,12 |  | 0.5,0.5 | 3.18134,10
+Inside Complex Graphic Object isInside: 0,10 | -3.18134,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | -17.6373,12 |  | 0.5,0.5 | 3.18134,10
+Inside Rectangle without Angle isInside: 0 | 14,4 | 4,1 | 3.18134,10
+Inside Ellipse without Angle isInside: 0 | 16,4 | -25.6373,12 |  | 0.5,0.5 | 3.18134,10
+Inside Complex Graphic Object isInside: 0,10 | 11.2124,0
+Inside Ellipse without Angle isInside: 0 | -13,8 | 0.893797,2 |  | 2,1 | -11.2124,10
+Inside Ellipse without Angle isInside: 0 | -8,8 | -1.6062,2 |  | 2,1 | -11.2124,10
+Inside Ellipse without Angle isInside: 0 | -3,8 | -4.1062,2 |  | 2,1 | -11.2124,10
+Inside Complex Graphic Object isInside: 0,10 | 11.2124,0
+Inside Ellipse without Angle isInside: 0 | 7,8 | -9.1062,2 |  | 2,1 | -11.2124,10
+Inside Ellipse without Angle isInside: 0 | 12,8 | -11.6062,2 |  | 2,1 | -11.2124,10
+Inside Ellipse without Angle isInside: 0 | 17,8 | -14.1062,2 |  | 2,1 | -11.2124,10
+Inside Complex Graphic Object isInside: 0,10 | 14.3938,0
+Inside Ellipse without Angle isInside: 0 | -18,6 | 7.21248,8 |  | 0.5,0.5 | -14.3938,10
+Inside Rectangle without Angle isInside: 0 | -15,6 | 6,1 | -14.3938,10
+Inside Ellipse without Angle isInside: 0 | -12,6 | -4.78752,8 |  | 0.5,0.5 | -14.3938,10
+Inside Complex Graphic Object isInside: 0,10 | 14.3938,0
+Inside Ellipse without Angle isInside: 0 | -8,6 | -12.7875,8 |  | 0.5,0.5 | -14.3938,10
+Inside Rectangle without Angle isInside: 0 | -5,6 | 6,1 | -14.3938,10
+Inside Ellipse without Angle isInside: 0 | -2,6 | -24.7875,8 |  | 0.5,0.5 | -14.3938,10
+Inside Complex Graphic Object isInside: 0,10 | 14.3938,0
+Inside Ellipse without Angle isInside: 0 | 2,6 | -32.7875,8 |  | 0.5,0.5 | -14.3938,10
+Inside Rectangle without Angle isInside: 0 | 5,6 | 6,1 | -14.3938,10
+Inside Ellipse without Angle isInside: 0 | 8,6 | -44.7875,8 |  | 0.5,0.5 | -14.3938,10
+Inside Complex Graphic Object isInside: 0,10 | 14.3938,0
+Inside Ellipse without Angle isInside: 0 | 12,6 | -52.7875,8 |  | 0.5,0.5 | -14.3938,10
+Inside Rectangle without Angle isInside: 0 | 15,6 | 6,1 | -14.3938,10
+Inside Ellipse without Angle isInside: 0 | 18,6 | -64.7875,8 |  | 0.5,0.5 | -14.3938,10
+Inside Complex Graphic Object isInside: 0,10 | 14.3938,0
+Inside Ellipse without Angle isInside: 0 | 22,6 | -72.7875,8 |  | 0.5,0.5 | -14.3938,10
+Inside Rectangle without Angle isInside: 0 | 25,6 | 6,1 | -14.3938,10
+Inside Ellipse without Angle isInside: 0 | 28,6 | -84.7875,8 |  | 0.5,0.5 | -14.3938,10
+Inside Complex Graphic Object isInside: 0,10 | 3.18134,0
+Inside Ellipse without Angle isInside: 0 | -22,10 | 37.6373,0 |  | 0.5,0.5 | -3.18134,10
+Inside Rectangle without Angle isInside: 0 | -20,10 | 4,1 | -3.18134,10
+Inside Ellipse without Angle isInside: 0 | -18,10 | 29.6373,0 |  | 0.5,0.5 | -3.18134,10
+Inside Complex Graphic Object isInside: 0,10 | 3.18134,0
+Inside Ellipse without Angle isInside: 0 | -16,10 | 25.6373,0 |  | 0.5,0.5 | -3.18134,10
+Inside Rectangle without Angle isInside: 0 | -14,10 | 4,1 | -3.18134,10
+Inside Ellipse without Angle isInside: 0 | -12,10 | 17.6373,0 |  | 0.5,0.5 | -3.18134,10
+Inside Complex Graphic Object isInside: 0,10 | 3.18134,0
+Inside Ellipse without Angle isInside: 0 | -10,10 | 13.6373,0 |  | 0.5,0.5 | -3.18134,10
+Inside Rectangle without Angle isInside: 0 | -8,10 | 4,1 | -3.18134,10
+Inside Ellipse without Angle isInside: 0 | -6,10 | 5.63733,0 |  | 0.5,0.5 | -3.18134,10
+Inside Complex Graphic Object isInside: 0,10 | 3.18134,0
+Inside Ellipse without Angle isInside: 0 | -4,10 | 1.63733,0 |  | 0.5,0.5 | -3.18134,10
+Inside Rectangle without Angle isInside: 1 | -2,10 | 4,1 | -3.18134,10
+Before Check Frog: SafeInWater | -1,26 | -16 | -1,10 | 14 | 27 | 
+Inside Complex Graphic Object isInside: -1,10 | -13.9603,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 61.9205,20 |  | 0.5,0.5 | 12.9603,10
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | 12.9603,10
+Inside Ellipse without Angle isInside: 0 | -14,0 | 53.9205,20 |  | 0.5,0.5 | 12.9603,10
+Inside Complex Graphic Object isInside: -1,10 | -12.0794,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | 2.53969,8 |  | 2,1 | 11.0794,10
+Inside Complex Graphic Object isInside: -1,10 | -1.88088,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | -6.23824,12 |  | 0.5,0.5 | 0.88088,10
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | 0.88088,10
+Inside Ellipse without Angle isInside: 0 | 8,4 | -14.2382,12 |  | 0.5,0.5 | 0.88088,10
+Inside Complex Graphic Object isInside: -1,10 | -1.88088,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | -22.2382,12 |  | 0.5,0.5 | 0.88088,10
+Inside Rectangle without Angle isInside: 0 | 14,4 | 4,1 | 0.88088,10
+Inside Ellipse without Angle isInside: 0 | 16,4 | -30.2382,12 |  | 0.5,0.5 | 0.88088,10
+Inside Complex Graphic Object isInside: -1,10 | 12.0794,0
+Inside Ellipse without Angle isInside: 0 | -13,8 | -0.0396876,2 |  | 2,1 | -13.0794,10
+Inside Ellipse without Angle isInside: 0 | -8,8 | -2.53969,2 |  | 2,1 | -13.0794,10
+Inside Ellipse without Angle isInside: 0 | -3,8 | -5.03969,2 |  | 2,1 | -13.0794,10
+Inside Complex Graphic Object isInside: -1,10 | 12.0794,0
+Inside Ellipse without Angle isInside: 0 | 7,8 | -10.0397,2 |  | 2,1 | -13.0794,10
+Inside Ellipse without Angle isInside: 0 | 12,8 | -12.5397,2 |  | 2,1 | -13.0794,10
+Inside Ellipse without Angle isInside: 0 | 17,8 | -15.0397,2 |  | 2,1 | -13.0794,10
+Inside Complex Graphic Object isInside: -1,10 | 13.9603,0
+Inside Ellipse without Angle isInside: 0 | -18,6 | 6.07945,8 |  | 0.5,0.5 | -14.9603,10
+Inside Rectangle without Angle isInside: 0 | -15,6 | 6,1 | -14.9603,10
+Inside Ellipse without Angle isInside: 0 | -12,6 | -5.92055,8 |  | 0.5,0.5 | -14.9603,10
+Inside Complex Graphic Object isInside: -1,10 | 13.9603,0
+Inside Ellipse without Angle isInside: 0 | -8,6 | -13.9205,8 |  | 0.5,0.5 | -14.9603,10
+Inside Rectangle without Angle isInside: 0 | -5,6 | 6,1 | -14.9603,10
+Inside Ellipse without Angle isInside: 0 | -2,6 | -25.9205,8 |  | 0.5,0.5 | -14.9603,10
+Inside Complex Graphic Object isInside: -1,10 | 13.9603,0
+Inside Ellipse without Angle isInside: 0 | 2,6 | -33.9205,8 |  | 0.5,0.5 | -14.9603,10
+Inside Rectangle without Angle isInside: 0 | 5,6 | 6,1 | -14.9603,10
+Inside Ellipse without Angle isInside: 0 | 8,6 | -45.9205,8 |  | 0.5,0.5 | -14.9603,10
+Inside Complex Graphic Object isInside: -1,10 | 13.9603,0
+Inside Ellipse without Angle isInside: 0 | 12,6 | -53.9205,8 |  | 0.5,0.5 | -14.9603,10
+Inside Rectangle without Angle isInside: 0 | 15,6 | 6,1 | -14.9603,10
+Inside Ellipse without Angle isInside: 0 | 18,6 | -65.9205,8 |  | 0.5,0.5 | -14.9603,10
+Inside Complex Graphic Object isInside: -1,10 | 13.9603,0
+Inside Ellipse without Angle isInside: 0 | 22,6 | -73.9205,8 |  | 0.5,0.5 | -14.9603,10
+Inside Rectangle without Angle isInside: 0 | 25,6 | 6,1 | -14.9603,10
+Inside Ellipse without Angle isInside: 0 | 28,6 | -85.9205,8 |  | 0.5,0.5 | -14.9603,10
+Inside Complex Graphic Object isInside: -1,10 | 1.88088,0
+Inside Ellipse without Angle isInside: 0 | -22,10 | 38.2382,0 |  | 0.5,0.5 | -2.88088,10
+Inside Rectangle without Angle isInside: 0 | -20,10 | 4,1 | -2.88088,10
+Inside Ellipse without Angle isInside: 0 | -18,10 | 30.2382,0 |  | 0.5,0.5 | -2.88088,10
+Inside Complex Graphic Object isInside: -1,10 | 1.88088,0
+Inside Ellipse without Angle isInside: 0 | -16,10 | 26.2382,0 |  | 0.5,0.5 | -2.88088,10
+Inside Rectangle without Angle isInside: 0 | -14,10 | 4,1 | -2.88088,10
+Inside Ellipse without Angle isInside: 0 | -12,10 | 18.2382,0 |  | 0.5,0.5 | -2.88088,10
+Inside Complex Graphic Object isInside: -1,10 | 1.88088,0
+Inside Ellipse without Angle isInside: 0 | -10,10 | 14.2382,0 |  | 0.5,0.5 | -2.88088,10
+Inside Rectangle without Angle isInside: 0 | -8,10 | 4,1 | -2.88088,10
+Inside Ellipse without Angle isInside: 0 | -6,10 | 6.23824,0 |  | 0.5,0.5 | -2.88088,10
+Inside Complex Graphic Object isInside: -1,10 | 1.88088,0
+Inside Ellipse without Angle isInside: 0 | -4,10 | 2.23824,0 |  | 0.5,0.5 | -2.88088,10
+Inside Rectangle without Angle isInside: 1 | -2,10 | 4,1 | -2.88088,10
+Before Check Frog: SafeInWater | -2,26 | -16 | -2,10 | 14 | 27 | 
+Inside Complex Graphic Object isInside: -2,10 | -13.4845,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 58.9691,20 |  | 0.5,0.5 | 11.4845,10
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | 11.4845,10
+Inside Ellipse without Angle isInside: 0 | -14,0 | 50.9691,20 |  | 0.5,0.5 | 11.4845,10
+Inside Complex Graphic Object isInside: -2,10 | -13.0308,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | 2.51542,8 |  | 2,1 | 11.0308,10
+Inside Complex Graphic Object isInside: -2,10 | -0.453688,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | -11.0926,12 |  | 0.5,0.5 | -1.54631,10
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | -1.54631,10
+Inside Ellipse without Angle isInside: 0 | 8,4 | -19.0926,12 |  | 0.5,0.5 | -1.54631,10
+Inside Complex Graphic Object isInside: -2,10 | -0.453688,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | -27.0926,12 |  | 0.5,0.5 | -1.54631,10
+Inside Rectangle without Angle isInside: 0 | 14,4 | 4,1 | -1.54631,10
+Inside Ellipse without Angle isInside: 0 | 16,4 | -35.0926,12 |  | 0.5,0.5 | -1.54631,10
+Inside Complex Graphic Object isInside: -2,10 | 13.0308,0
+Inside Ellipse without Angle isInside: 0 | -13,8 | -1.01542,2 |  | 2,1 | -15.0308,10
+Inside Ellipse without Angle isInside: 0 | -8,8 | -3.51542,2 |  | 2,1 | -15.0308,10
+Inside Ellipse without Angle isInside: 0 | -3,8 | -6.01542,2 |  | 2,1 | -15.0308,10
+Inside Complex Graphic Object isInside: -2,10 | 13.0308,0
+Inside Ellipse without Angle isInside: 0 | 7,8 | -11.0154,2 |  | 2,1 | -15.0308,10
+Inside Ellipse without Angle isInside: 0 | 12,8 | -13.5154,2 |  | 2,1 | -15.0308,10
+Inside Ellipse without Angle isInside: 0 | 17,8 | -16.0154,2 |  | 2,1 | -15.0308,10
+Inside Complex Graphic Object isInside: -2,10 | 13.4845,0
+Inside Ellipse without Angle isInside: 0 | -18,6 | 5.0309,8 |  | 0.5,0.5 | -15.4845,10
+Inside Rectangle without Angle isInside: 0 | -15,6 | 6,1 | -15.4845,10
+Inside Ellipse without Angle isInside: 0 | -12,6 | -6.9691,8 |  | 0.5,0.5 | -15.4845,10
+Inside Complex Graphic Object isInside: -2,10 | 13.4845,0
+Inside Ellipse without Angle isInside: 0 | -8,6 | -14.9691,8 |  | 0.5,0.5 | -15.4845,10
+Inside Rectangle without Angle isInside: 0 | -5,6 | 6,1 | -15.4845,10
+Inside Ellipse without Angle isInside: 0 | -2,6 | -26.9691,8 |  | 0.5,0.5 | -15.4845,10
+Inside Complex Graphic Object isInside: -2,10 | 13.4845,0
+Inside Ellipse without Angle isInside: 0 | 2,6 | -34.9691,8 |  | 0.5,0.5 | -15.4845,10
+Inside Rectangle without Angle isInside: 0 | 5,6 | 6,1 | -15.4845,10
+Inside Ellipse without Angle isInside: 0 | 8,6 | -46.9691,8 |  | 0.5,0.5 | -15.4845,10
+Inside Complex Graphic Object isInside: -2,10 | 13.4845,0
+Inside Ellipse without Angle isInside: 0 | 12,6 | -54.9691,8 |  | 0.5,0.5 | -15.4845,10
+Inside Rectangle without Angle isInside: 0 | 15,6 | 6,1 | -15.4845,10
+Inside Ellipse without Angle isInside: 0 | 18,6 | -66.9691,8 |  | 0.5,0.5 | -15.4845,10
+Inside Complex Graphic Object isInside: -2,10 | 13.4845,0
+Inside Ellipse without Angle isInside: 0 | 22,6 | -74.9691,8 |  | 0.5,0.5 | -15.4845,10
+Inside Rectangle without Angle isInside: 0 | 25,6 | 6,1 | -15.4845,10
+Inside Ellipse without Angle isInside: 0 | 28,6 | -86.9691,8 |  | 0.5,0.5 | -15.4845,10
+Inside Complex Graphic Object isInside: -2,10 | 0.453688,0
+Inside Ellipse without Angle isInside: 0 | -22,10 | 39.0926,0 |  | 0.5,0.5 | -2.45369,10
+Inside Rectangle without Angle isInside: 0 | -20,10 | 4,1 | -2.45369,10
+Inside Ellipse without Angle isInside: 0 | -18,10 | 31.0926,0 |  | 0.5,0.5 | -2.45369,10
+Inside Complex Graphic Object isInside: -2,10 | 0.453688,0
+Inside Ellipse without Angle isInside: 0 | -16,10 | 27.0926,0 |  | 0.5,0.5 | -2.45369,10
+Inside Rectangle without Angle isInside: 0 | -14,10 | 4,1 | -2.45369,10
+Inside Ellipse without Angle isInside: 0 | -12,10 | 19.0926,0 |  | 0.5,0.5 | -2.45369,10
+Inside Complex Graphic Object isInside: -2,10 | 0.453688,0
+Inside Ellipse without Angle isInside: 0 | -10,10 | 15.0926,0 |  | 0.5,0.5 | -2.45369,10
+Inside Rectangle without Angle isInside: 0 | -8,10 | 4,1 | -2.45369,10
+Inside Ellipse without Angle isInside: 0 | -6,10 | 7.09262,0 |  | 0.5,0.5 | -2.45369,10
+Inside Complex Graphic Object isInside: -2,10 | 0.453688,0
+Inside Ellipse without Angle isInside: 0 | -4,10 | 3.09262,0 |  | 0.5,0.5 | -2.45369,10
+Inside Rectangle without Angle isInside: 1 | -2,10 | 4,1 | -2.45369,10
+Before Check Frog: SafeInWater | -3,26 | -16 | -3,10 | 14 | 27 | 
+Inside Complex Graphic Object isInside: -3,10 | -13.221,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 56.442,20 |  | 0.5,0.5 | 10.221,10
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | 10.221,10
+Inside Ellipse without Angle isInside: 0 | -14,0 | 48.442,20 |  | 0.5,0.5 | 10.221,10
+Inside Complex Graphic Object isInside: -3,10 | -13.5579,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | 2.27897,8 |  | 2,1 | 10.5579,10
+Inside Complex Graphic Object isInside: -3,10 | 0.336984,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | -14.674,12 |  | 0.5,0.5 | -3.33698,10
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | -3.33698,10
+Inside Ellipse without Angle isInside: 0 | 8,4 | -22.674,12 |  | 0.5,0.5 | -3.33698,10
+Inside Complex Graphic Object isInside: -3,10 | 0.336984,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | -30.674,12 |  | 0.5,0.5 | -3.33698,10
+Inside Rectangle without Angle isInside: 0 | 14,4 | 4,1 | -3.33698,10
+Inside Ellipse without Angle isInside: 0 | 16,4 | -38.674,12 |  | 0.5,0.5 | -3.33698,10
+Inside Complex Graphic Object isInside: -3,10 | 13.5579,0
+Inside Ellipse without Angle isInside: 0 | -13,8 | -1.77897,2 |  | 2,1 | -16.5579,10
+Inside Ellipse without Angle isInside: 0 | -8,8 | -4.27897,2 |  | 2,1 | -16.5579,10
+Inside Ellipse without Angle isInside: 0 | -3,8 | -6.77897,2 |  | 2,1 | -16.5579,10
+Inside Complex Graphic Object isInside: -3,10 | 13.5579,0
+Inside Ellipse without Angle isInside: 0 | 7,8 | -11.779,2 |  | 2,1 | -16.5579,10
+Inside Ellipse without Angle isInside: 0 | 12,8 | -14.279,2 |  | 2,1 | -16.5579,10
+Inside Ellipse without Angle isInside: 0 | 17,8 | -16.779,2 |  | 2,1 | -16.5579,10
+Inside Complex Graphic Object isInside: -3,10 | 13.221,0
+Inside Ellipse without Angle isInside: 0 | -18,6 | 3.55803,8 |  | 0.5,0.5 | -16.221,10
+Inside Rectangle without Angle isInside: 0 | -15,6 | 6,1 | -16.221,10
+Inside Ellipse without Angle isInside: 0 | -12,6 | -8.44197,8 |  | 0.5,0.5 | -16.221,10
+Inside Complex Graphic Object isInside: -3,10 | 13.221,0
+Inside Ellipse without Angle isInside: 0 | -8,6 | -16.442,8 |  | 0.5,0.5 | -16.221,10
+Inside Rectangle without Angle isInside: 0 | -5,6 | 6,1 | -16.221,10
+Inside Ellipse without Angle isInside: 0 | -2,6 | -28.442,8 |  | 0.5,0.5 | -16.221,10
+Inside Complex Graphic Object isInside: -3,10 | 13.221,0
+Inside Ellipse without Angle isInside: 0 | 2,6 | -36.442,8 |  | 0.5,0.5 | -16.221,10
+Inside Rectangle without Angle isInside: 0 | 5,6 | 6,1 | -16.221,10
+Inside Ellipse without Angle isInside: 0 | 8,6 | -48.442,8 |  | 0.5,0.5 | -16.221,10
+Inside Complex Graphic Object isInside: -3,10 | 13.221,0
+Inside Ellipse without Angle isInside: 0 | 12,6 | -56.442,8 |  | 0.5,0.5 | -16.221,10
+Inside Rectangle without Angle isInside: 0 | 15,6 | 6,1 | -16.221,10
+Inside Ellipse without Angle isInside: 0 | 18,6 | -68.442,8 |  | 0.5,0.5 | -16.221,10
+Inside Complex Graphic Object isInside: -3,10 | 13.221,0
+Inside Ellipse without Angle isInside: 0 | 22,6 | -76.442,8 |  | 0.5,0.5 | -16.221,10
+Inside Rectangle without Angle isInside: 0 | 25,6 | 6,1 | -16.221,10
+Inside Ellipse without Angle isInside: 0 | 28,6 | -88.442,8 |  | 0.5,0.5 | -16.221,10
+Inside Complex Graphic Object isInside: -3,10 | -0.336984,0
+Inside Ellipse without Angle isInside: 0 | -22,10 | 38.674,0 |  | 0.5,0.5 | -2.66302,10
+Inside Rectangle without Angle isInside: 0 | -20,10 | 4,1 | -2.66302,10
+Inside Ellipse without Angle isInside: 0 | -18,10 | 30.674,0 |  | 0.5,0.5 | -2.66302,10
+Inside Complex Graphic Object isInside: -3,10 | -0.336984,0
+Inside Ellipse without Angle isInside: 0 | -16,10 | 26.674,0 |  | 0.5,0.5 | -2.66302,10
+Inside Rectangle without Angle isInside: 0 | -14,10 | 4,1 | -2.66302,10
+Inside Ellipse without Angle isInside: 0 | -12,10 | 18.674,0 |  | 0.5,0.5 | -2.66302,10
+Inside Complex Graphic Object isInside: -3,10 | -0.336984,0
+Inside Ellipse without Angle isInside: 0 | -10,10 | 14.674,0 |  | 0.5,0.5 | -2.66302,10
+Inside Rectangle without Angle isInside: 0 | -8,10 | 4,1 | -2.66302,10
+Inside Ellipse without Angle isInside: 0 | -6,10 | 6.67397,0 |  | 0.5,0.5 | -2.66302,10
+Inside Complex Graphic Object isInside: -3,10 | -0.336984,0
+Inside Ellipse without Angle isInside: 0 | -4,10 | 2.67397,0 |  | 0.5,0.5 | -2.66302,10
+Inside Rectangle without Angle isInside: 1 | -2,10 | 4,1 | -2.66302,10
+Before Check Frog: SafeInWater | -4,26 | -16 | -4,10 | 14 | 27 | 
+Inside Complex Graphic Object isInside: -4,10 | -12.9174,0
+Inside Ellipse without Angle isInside: 0 | -18,0 | 53.8347,20 |  | 0.5,0.5 | 8.91736,10
+Inside Rectangle without Angle isInside: 0 | -16,0 | 4,1 | 8.91736,10
+Inside Ellipse without Angle isInside: 0 | -14,0 | 45.8347,20 |  | 0.5,0.5 | 8.91736,10
+Inside Complex Graphic Object isInside: -4,10 | -14.1652,0
+Inside Ellipse without Angle isInside: 0 | 6,2 | 2.08259,8 |  | 2,1 | 10.1652,10
+Inside Complex Graphic Object isInside: -4,10 | 1.24784,0
+Inside Ellipse without Angle isInside: 0 | 4,4 | -18.4957,12 |  | 0.5,0.5 | -5.24784,10
+Inside Rectangle without Angle isInside: 0 | 6,4 | 4,1 | -5.24784,10
+Inside Ellipse without Angle isInside: 0 | 8,4 | -26.4957,12 |  | 0.5,0.5 | -5.24784,10
+Inside Complex Graphic Object isInside: -4,10 | 1.24784,0
+Inside Ellipse without Angle isInside: 0 | 12,4 | -34.4957,12 |  | 0.5,0.5 | -5.24784,10
+Inside Rectangle without Angle isInside: 0 | 14,4 | 4,1 | -5.24784,10
+Inside Ellipse without Angle isInside: 0 | 16,4 | -42.4957,12 |  | 0.5,0.5 | -5.24784,10
+Inside Complex Graphic Object isInside: -4,10 | 14.1652,0
+Inside Ellipse without Angle isInside: 0 | -13,8 | -2.58259,2 |  | 2,1 | -18.1652,10
+Inside Ellipse without Angle isInside: 0 | -8,8 | -5.08259,2 |  | 2,1 | -18.1652,10
+Inside Ellipse without Angle isInside: 0 | -3,8 | -7.58259,2 |  | 2,1 | -18.1652,10
+Inside Complex Graphic Object isInside: -4,10 | 14.1652,0
+Inside Ellipse without Angle isInside: 0 | 7,8 | -12.5826,2 |  | 2,1 | -18.1652,10
+Inside Ellipse without Angle isInside: 0 | 12,8 | -15.0826,2 |  | 2,1 | -18.1652,10
+Inside Ellipse without Angle isInside: 0 | 17,8 | -17.5826,2 |  | 2,1 | -18.1652,10
+Inside Complex Graphic Object isInside: -4,10 | 12.9174,0
+Inside Ellipse without Angle isInside: 0 | -18,6 | 2.16528,8 |  | 0.5,0.5 | -16.9174,10
+Inside Rectangle without Angle isInside: 0 | -15,6 | 6,1 | -16.9174,10
+Inside Ellipse without Angle isInside: 0 | -12,6 | -9.83472,8 |  | 0.5,0.5 | -16.9174,10
+Inside Complex Graphic Object isInside: -4,10 | 12.9174,0
+Inside Ellipse without Angle isInside: 0 | -8,6 | -17.8347,8 |  | 0.5,0.5 | -16.9174,10
+Inside Rectangle without Angle isInside: 0 | -5,6 | 6,1 | -16.9174,10
+Inside Ellipse without Angle isInside: 0 | -2,6 | -29.8347,8 |  | 0.5,0.5 | -16.9174,10
+Inside Complex Graphic Object isInside: -4,10 | 12.9174,0
+Inside Ellipse without Angle isInside: 0 | 2,6 | -37.8347,8 |  | 0.5,0.5 | -16.9174,10
+Inside Rectangle without Angle isInside: 0 | 5,6 | 6,1 | -16.9174,10
+Inside Ellipse without Angle isInside: 0 | 8,6 | -49.8347,8 |  | 0.5,0.5 | -16.9174,10
+Inside Complex Graphic Object isInside: -4,10 | 12.9174,0
+Inside Ellipse without Angle isInside: 0 | 12,6 | -57.8347,8 |  | 0.5,0.5 | -16.9174,10
+Inside Rectangle without Angle isInside: 0 | 15,6 | 6,1 | -16.9174,10
+Inside Ellipse without Angle isInside: 0 | 18,6 | -69.8347,8 |  | 0.5,0.5 | -16.9174,10
+Inside Complex Graphic Object isInside: -4,10 | 12.9174,0
+Inside Ellipse without Angle isInside: 0 | 22,6 | -77.8347,8 |  | 0.5,0.5 | -16.9174,10
+Inside Rectangle without Angle isInside: 0 | 25,6 | 6,1 | -16.9174,10
+Inside Ellipse without Angle isInside: 0 | 28,6 | -89.8347,8 |  | 0.5,0.5 | -16.9174,10
+Inside Complex Graphic Object isInside: -4,10 | -1.24784,0
+Inside Ellipse without Angle isInside: 0 | -22,10 | 38.4957,0 |  | 0.5,0.5 | -2.75216,10
+Inside Rectangle without Angle isInside: 0 | -20,10 | 4,1 | -2.75216,10
+Inside Ellipse without Angle isInside: 0 | -18,10 | 30.4957,0 |  | 0.5,0.5 | -2.75216,10
+Inside Complex Graphic Object isInside: -4,10 | -1.24784,0
+Inside Ellipse without Angle isInside: 0 | -16,10 | 26.4957,0 |  | 0.5,0.5 | -2.75216,10
+Inside Rectangle without Angle isInside: 0 | -14,10 | 4,1 | -2.75216,10
+Inside Ellipse without Angle isInside: 0 | -12,10 | 18.4957,0 |  | 0.5,0.5 | -2.75216,10
+Inside Complex Graphic Object isInside: -4,10 | -1.24784,0
+Inside Ellipse without Angle isInside: 0 | -10,10 | 14.4957,0 |  | 0.5,0.5 | -2.75216,10
+Inside Rectangle without Angle isInside: 0 | -8,10 | 4,1 | -2.75216,10
+Inside Ellipse without Angle isInside: 0 | -6,10 | 6.49568,0 |  | 0.5,0.5 | -2.75216,10
+Inside Complex Graphic Object isInside: -4,10 | -1.24784,0
+Inside Ellipse without Angle isInside: 0 | -4,10 | 2.49568,0 |  | 0.5,0.5 | -2.75216,10
+Inside Rectangle without Angle isInside: 1 | -2,10 | 4,1 | -2.75216,10
+Before Check Frog: SafeInWater | -4,28 | -16 | -4,12 | 14 | 27 | 
+Object #1 destructed
+Object #2 destructed
+Object #3 destructed
+Object #4 destructed
+Object #5 destructed
+Object #6 destructed
+Object #7 destructed
+Object #8 destructed
+Object #9 destructed
+Object #10 destructed
+Object #0 destructed
+Object #12 destructed
+Object #13 destructed
+Object #14 destructed
+Object #11 destructed
+Object #18 destructed
+Object #17 destructed
+Object #20 destructed
+Object #21 destructed
+Object #22 destructed
+Object #19 destructed
+Object #24 destructed
+Object #25 destructed
+Object #26 destructed
+Object #23 destructed
+Object #28 destructed
+Object #29 destructed
+Object #30 destructed
+Object #27 destructed
+Object #32 destructed
+Object #33 destructed
+Object #34 destructed
+Object #31 destructed
+Object #36 destructed
+Object #37 destructed
+Object #38 destructed
+Object #35 destructed
+Object #40 destructed
+Object #41 destructed
+Object #42 destructed
+Object #39 destructed
+Object #44 destructed
+Object #45 destructed
+Object #46 destructed
+Object #43 destructed
+Object #48 destructed
+Object #49 destructed
+Object #50 destructed
+Object #47 destructed
+Object #52 destructed
+Object #53 destructed
+Object #54 destructed
+Object #51 destructed
+Object #56 destructed
+Object #57 destructed
+Object #58 destructed
+Object #55 destructed
+Object #60 destructed
+Object #61 destructed
+Object #62 destructed
+Object #59 destructed
+Object #64 destructed
+Object #65 destructed
+Object #66 destructed
+Object #63 destructed
+Object #68 destructed
+Object #69 destructed
+Object #70 destructed
+Object #67 destructed
+Object #72 destructed
+Object #73 destructed
+Object #74 destructed
+Object #71 destructed
+Object #76 destructed
+Object #77 destructed
+Object #78 destructed
+Object #75 destructed
+Object #80 destructed
+Object #79 destructed
