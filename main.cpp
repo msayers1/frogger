@@ -53,8 +53,8 @@
 #include "Rectangle.h"
 #include "Log.h"
 #include "Turtle.h"
-// #include "Face.h"
-// #include "SmilingFace.h"
+#include "Car.h"
+#include "Truck.h"
 // #include "AnimatedEllipse.h"
 // #include "AnimatedRectangle.h"
 #include "StaticBackground.h"
@@ -269,7 +269,27 @@ bool World::showReferenceFrames = false;
 
 void setupBackground()
 {
+	float carPosition;
+	for(int i = 0; i < 2; i++){
+		shared_ptr<Car> car = make_shared<Car>(CAR_THREE, CAR_MODERATE, carPosition, -6);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
+		RoadObjectList.push_back(car);
+		ObjectList.push_back(make_pair(car, car));
+		carPosition = carPosition + 20;
+	}
 
+	for(int i = 0; i < 2; i++){
+		shared_ptr<Truck> truck = make_shared<Truck>(TRUCK_LARGE, TRUCK_BACK_FAST, carPosition, -5);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
+		RoadObjectList.push_back(truck);
+		ObjectList.push_back(make_pair(truck, truck));
+		carPosition = carPosition + 10;
+	}
+
+	for(int i = 0; i < 4; i++){
+		shared_ptr<Car> car = make_shared<Car>(CAR_TWO, CAR_MODERATE, carPosition, -3);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
+		RoadObjectList.push_back(car);
+		ObjectList.push_back(make_pair(car, car));
+		carPosition = carPosition + 10;
+	}
 	float logPosition;
 	std::shared_ptr<StaticBackground> staticBackground = make_shared<StaticBackground>();
 	ObjectList.push_back(make_pair(staticBackground, staticBackground));

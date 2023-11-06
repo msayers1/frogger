@@ -20,38 +20,38 @@ CLASS=AnimatedObject
 CLASS2=BoundingBox
 #---------------------------------------------------------
 #CLASS5=Orangutan
-# CLASS5=Car
+CLASS3=Car
 #---------------------------------------------------------
 #CLASS5=Orangutan
-CLASS3=ComplexGraphicObject
+CLASS4=ComplexGraphicObject
 #---------------------------------------------------------
-CLASS4=Ellipse
+CLASS5=Ellipse
 #---------------------------------------------------------
-CLASS5=Frogger
+CLASS6=Frogger
 #---------------------------------------------------------
-CLASS6=Game
+CLASS7=Game
 #---------------------------------------------------------
-CLASS7=GraphicObject
+CLASS8=GraphicObject
 #---------------------------------------------------------
-CLASS8=Log
+CLASS9=Log
 #---------------------------------------------------------
 # CLASS8=Face
 # #---------------------------------------------------------
-CLASS9=Object
+CLASS10=Object
 #---------------------------------------------------------
-CLASS10=Polygon
+CLASS11=Polygon
 #---------------------------------------------------------
-CLASS11=Rectangle
+CLASS12=Rectangle
 #---------------------------------------------------------
-CLASS12=StaticBackground
+CLASS13=StaticBackground
 #---------------------------------------------------------
-# CLASS8=Truck
+CLASS14=Truck
 #---------------------------------------------------------
-CLASS13=Turtle
+CLASS15=Turtle
 #---------------------------------------------------------
 # CLASS11=SmilingFace
 # #---------------------------------------------------------
-CLASS14=World
+CLASS16=World
 #---------------------------------------------------------
 #---------------------------------------------------------
 CPPFLAGS=-I. -lglut -lGLU -lGL -lstdc++ -lm
@@ -61,8 +61,8 @@ CPPFLAGS=-I. -lglut -lGLU -lGL -lstdc++ -lm
 #---------------------------------------------------------
 all: ${EXEC} # execute "make"
 #---------------------------------------------------------
-${EXEC}: ${EXEC}.o ${CLASS}.o ${CLASS2}.o ${CLASS3}.o ${CLASS4}.o  ${CLASS5}.o ${CLASS6}.o ${CLASS7}.o ${CLASS8}.o ${CLASS9}.o ${CLASS10}.o ${CLASS11}.o ${CLASS12}.o ${CLASS13}.o ${CLASS14}.o
-	${CC} ${EXEC}.o ${CLASS}.o ${CLASS2}.o ${CLASS3}.o ${CLASS4}.o ${CLASS5}.o ${CLASS6}.o ${CLASS7}.o ${CLASS8}.o ${CLASS9}.o ${CLASS10}.o ${CLASS11}.o ${CLASS12}.o ${CLASS13}.o ${CLASS14}.o -o ${EXEC} ${CPPFLAGS}
+${EXEC}: ${EXEC}.o ${CLASS}.o ${CLASS2}.o ${CLASS3}.o ${CLASS4}.o  ${CLASS5}.o ${CLASS6}.o ${CLASS7}.o ${CLASS8}.o ${CLASS9}.o ${CLASS10}.o ${CLASS11}.o ${CLASS12}.o ${CLASS13}.o ${CLASS14}.o ${CLASS15}.o ${CLASS16}.o
+	${CC} ${EXEC}.o ${CLASS}.o ${CLASS2}.o ${CLASS3}.o ${CLASS4}.o ${CLASS5}.o ${CLASS6}.o ${CLASS7}.o ${CLASS8}.o ${CLASS9}.o ${CLASS10}.o ${CLASS11}.o ${CLASS12}.o ${CLASS13}.o ${CLASS14}.o ${CLASS15}.o ${CLASS16}.o -o ${EXEC} ${CPPFLAGS}
 #---------------------------------------------------------
 ${EXEC}.o: ${EXEC}.cpp 
 	${CC} -c ${EXEC}.cpp -o ${EXEC}.o ${CPPFLAGS}
@@ -108,6 +108,12 @@ ${CLASS13}.o: ${CLASS13}.cpp ${CLASS13}.h
 #---------------------------------------------------------
 ${CLASS14}.o: ${CLASS14}.cpp ${CLASS14}.h
 	${CC} -c ${CLASS14}.cpp -o ${CLASS14}.o ${CPPFLAGS}
+#---------------------------------------------------------
+${CLASS15}.o: ${CLASS15}.cpp ${CLASS15}.h
+	${CC} -c ${CLASS15}.cpp -o ${CLASS15}.o ${CPPFLAGS}
+#---------------------------------------------------------
+${CLASS16}.o: ${CLASS16}.cpp ${CLASS16}.h
+	${CC} -c ${CLASS16}.cpp -o ${CLASS16}.o ${CPPFLAGS}
 #---------------------------------------------------------
 clean: # delete object files and executables
 		$(RM) ${EXEC}.o ${EXEC} ${CLASS}.o ${CLASS} ${CLASS2}.o ${CLASS2} ${CLASS3}.o ${CLASS3} ${CLASS4}.o ${CLASS4} ${CLASS5}.o ${CLASS5} ${CLASS6}.o ${CLASS6} ${CLASS7}.o ${CLASS7} ${CLASS8}.o ${CLASS8} ${CLASS9}.o ${CLASS9} ${CLASS10}.o ${CLASS10} ${CLASS11}.o ${CLASS11} ${CLASS12}.o ${CLASS12} ${CLASS13}.o ${CLASS13} ${CLASS14}.o ${CLASS14} 
