@@ -78,16 +78,16 @@ bool Rectangle::isInside(const WorldPoint& pt) const
 		float ca = cosf(getAngle()), sa = sinf(getAngle());
 		float rdx = ca * dx + sa*dy;
 		float rdy = -sa *dx + ca*dy;
-		std::cout << "Inside Rectangle with Angle isInside: " << ((rdx >= -width_/2 ) && (rdx <= width_/2 ) &&
-			   (rdy >= -height_/2 ) && (rdy <= +height_/2 )) << " | " << rdx << "," << rdy << " | " << width_ << "," << height_ << " | " << ca << "," << sa << " | " << pt.x << "," <<  pt.y << std::endl;
+		// std::cout << "Inside Rectangle with Angle isInside: " << ((rdx >= -width_/2 ) && (rdx <= width_/2 ) &&
+			//    (rdy >= -height_/2 ) && (rdy <= +height_/2 )) << " | " << rdx << "," << rdy << " | " << width_ << "," << height_ << " | " << ca << "," << sa << " | " << pt.x << "," <<  pt.y << std::endl;
 	
 		return (rdx >= -width_/2 ) && (rdx <= width_/2 ) &&
 			   (rdy >= -height_/2 ) && (rdy <= +height_/2 );
 	
 	}
 	else
-		std::cout << "Inside Rectangle without Angle isInside: " << ((pt.x >= getX() - width_/2 ) && (pt.x <= getX() + width_/2 ) &&
-			   (pt.y >= getY() - height_/2 ) && (pt.y <= getY() + height_/2 )) << " | " << getX() << "," << getY() << " | " << width_ << "," << height_ << " | " << pt.x << "," <<  pt.y << std::endl;
+		// std::cout << "Inside Rectangle without Angle isInside: " << ((pt.x >= getX() - width_/2 ) && (pt.x <= getX() + width_/2 ) &&
+			//    (pt.y >= getY() - height_/2 ) && (pt.y <= getY() + height_/2 )) << " | " << getX() << "," << getY() << " | " << width_ << "," << height_ << " | " << pt.x << "," <<  pt.y << std::endl;
 		return (pt.x >= getX() - width_/2 ) && (pt.x <= getX() + width_/2 ) &&
 			   (pt.y >= getY() - height_/2 ) && (pt.y <= getY() + height_/2 );
 }

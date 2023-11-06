@@ -9,5 +9,6 @@
 Game::Game()
     :score_(0),
     lives_(3),
-    time_(10000)
+    time_(10000),
+    gameStatus_(true)
 {}

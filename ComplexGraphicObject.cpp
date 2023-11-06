@@ -51,7 +51,7 @@ void ComplexGraphicObject::draw_() const
 bool ComplexGraphicObject::isInside(const WorldPoint& pt) const
 {
 	bool check = false;
-	std::cout << "Inside Complex Graphic Object isInside: " <<  pt.x << "," <<  pt.y << " | " <<  getX() << "," <<  getY() << std::endl;
+	// std::cout << "Inside Complex Graphic Object isInside: " <<  pt.x << "," <<  pt.y << " | " <<  getX() << "," <<  getY() << std::endl;
 	WorldPoint localPt = {(pt.x - getX()), pt.y - getY()};
 	// return false;
 	for (auto obj : partList_)

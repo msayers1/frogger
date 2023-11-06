@@ -237,6 +237,7 @@ bool trackPassiveMousePointer = false;
 bool pointerInWindow = false;
 GLint lastX = -1, lastY = -1;
 
+bool displayScore = true;
 bool displayText = false;
 bool displayBgnd = false;
 bool displayAbsoluteBoxes = false;
@@ -268,43 +269,43 @@ bool World::showReferenceFrames = false;
 
 void setupBackground()
 {
-	// printf("setupShip\n");
+
 	float logPosition;
 	std::shared_ptr<StaticBackground> staticBackground = make_shared<StaticBackground>();
 	ObjectList.push_back(make_pair(staticBackground, staticBackground));
 	std::shared_ptr<Log> log = make_shared<Log>(SMALL, SLOW, -16, 0);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
 	WaterObjectList.push_back(log);
 	ObjectList.push_back(make_pair(log, log));
-	// log = make_shared<Log>(LARGE, SLOW, -6, 0);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
-	// WaterObjectList.push_back(log);
-	// ObjectList.push_back(make_pair(log, log));
-	// log = make_shared<Log>(MEDIUM, SLOW, 6, 0);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
-	// WaterObjectList.push_back(log);
-	// ObjectList.push_back(make_pair(log, log));
-	// log = make_shared<Log>(MEDIUM, SLOW, 16, 0);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
-	// WaterObjectList.push_back(log);
-	// ObjectList.push_back(make_pair(log, log));
+	log = make_shared<Log>(LARGE, SLOW, -6, 0);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
+	WaterObjectList.push_back(log);
+	ObjectList.push_back(make_pair(log, log));
+	log = make_shared<Log>(MEDIUM, SLOW, 6, 0);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
+	WaterObjectList.push_back(log);
+	ObjectList.push_back(make_pair(log, log));
+	log = make_shared<Log>(MEDIUM, SLOW, 16, 0);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
+	WaterObjectList.push_back(log);
+	ObjectList.push_back(make_pair(log, log));
 	std::shared_ptr<Turtle> turtle = make_shared<Turtle>(ONE, TURTLE_BACK_MODERATE, -18, 2);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
-	// WaterObjectList.push_back(turtle);
-	// ObjectList.push_back(make_pair(turtle, turtle));
-	// turtle = make_shared<Turtle>(ONE, TURTLE_BACK_MODERATE, -10, 2);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
-	// WaterObjectList.push_back(turtle);
-	// ObjectList.push_back(make_pair(turtle, turtle));
-	// turtle = make_shared<Turtle>(ONE, TURTLE_BACK_MODERATE, -2, 2);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
-	// WaterObjectList.push_back(turtle);
-	// ObjectList.push_back(make_pair(turtle, turtle));
+	WaterObjectList.push_back(turtle);
+	ObjectList.push_back(make_pair(turtle, turtle));
+	turtle = make_shared<Turtle>(ONE, TURTLE_BACK_MODERATE, -10, 2);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
+	WaterObjectList.push_back(turtle);
+	ObjectList.push_back(make_pair(turtle, turtle));
+	turtle = make_shared<Turtle>(ONE, TURTLE_BACK_MODERATE, -2, 2);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
+	WaterObjectList.push_back(turtle);
+	ObjectList.push_back(make_pair(turtle, turtle));
 	turtle = make_shared<Turtle>(ONE, TURTLE_BACK_MODERATE, 6, 2);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
 	WaterObjectList.push_back(turtle);
 	ObjectList.push_back(make_pair(turtle, turtle));
-	// turtle = make_shared<Turtle>(ONE, TURTLE_BACK_MODERATE, 14, 2);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
-	// WaterObjectList.push_back(turtle);
-	// ObjectList.push_back(make_pair(turtle, turtle));
-	// log = make_shared<Log>(LARGE, FAST, -16, 4);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
-	// WaterObjectList.push_back(log);
-	// ObjectList.push_back(make_pair(log, log));
-	// log = make_shared<Log>(LARGE, FAST, -4, 4);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
-	// WaterObjectList.push_back(log);
-	// ObjectList.push_back(make_pair(log, log));
+	turtle = make_shared<Turtle>(ONE, TURTLE_BACK_MODERATE, 14, 2);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
+	WaterObjectList.push_back(turtle);
+	ObjectList.push_back(make_pair(turtle, turtle));
+	log = make_shared<Log>(LARGE, FAST, -16, 4);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
+	WaterObjectList.push_back(log);
+	ObjectList.push_back(make_pair(log, log));
+	log = make_shared<Log>(LARGE, FAST, -4, 4);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
+	WaterObjectList.push_back(log);
+	ObjectList.push_back(make_pair(log, log));
 	log = make_shared<Log>(SMALL, FAST, 6, 4);//addPart(std::make_shared<Log>(SMALL, SLOW, 8, 12));
 	WaterObjectList.push_back(log);
 	ObjectList.push_back(make_pair(log, log));
@@ -447,7 +448,7 @@ void myDisplayFunc(void)
 	//---------------------------------
 	//	We are back at the world's origin (by the glPopMatrix() just above), in world coordinates.
 	//	So we must undo the scaling to be back in pixels, which how text is drawn for now.
-	if (displayText)
+	if (displayScore)
 	{
 	//	First, translate to the upper-left corner
 		glTranslatef(World::X_MIN, World::Y_MAX, 0.f);
@@ -458,20 +459,23 @@ void myDisplayFunc(void)
 		char statusLine[256];
 		
 		WorldPoint mouse = pixelToWorld(lastX, lastY);
-		sprintf(statusLine, "Runtime: %d s | Mouse last seen at (%f, %f) |  frogStatus: %s |  Score: %f   |  Number of Lives: %f | Time Left: %f | Frogger Loc: (%f, %f) ",
-								static_cast<int>(time(nullptr)-startTime),
-								mouse.x, mouse.y,
-								frogStatus.c_str(),
+		// sprintf(statusLine, "Runtime: %d s | Mouse last seen at (%f, %f) |  frogStatus: %s |  Score: %d   |  Number of Lives: %d | Time Left: %d | Frogger Loc: (%f, %f) ",
+		sprintf(statusLine, " game status : %s | Score: %d   |  Number of Lives: %d | Time Left: %d ",
+								// static_cast<int>(time(nullptr)-startTime),
+								// mouse.x, mouse.y,
+								// frogStatus.c_str(),
+								newGame.getGameStatus()?"Running":"Game over",
 								newGame.getScore(), 
 								newGame.getLives(),
-								newGame.getTime(),
-								ObjectList[FroggerIndex].first->getX(),
-								ObjectList[FroggerIndex].first->getY());
+								newGame.getTime()//,
+								// ObjectList[FroggerIndex].first->getX(),
+								// ObjectList[FroggerIndex].first->getY()
+								);
 		// sprintf(statusLine, "Runtime: %d s   |   Number of objects: %d   |   Mouse last seen at (%d, %d)",
 		// 						static_cast<int>(time(nullptr)-startTime),
 		// 						static_cast<int>(ObjectList.size()),
 		// 						lastX, lastY);
-		// displayTextualInfo(statusLine, 0);		//	first row
+		displayTextualInfo(statusLine, 0);		//	first row
 
 		if (stringLine != "")
 		displayTextualInfo(stringLine, 1);		//	second row
@@ -794,7 +798,11 @@ void myKeyHandler(unsigned char c, int x, int y)
 				displayAbsoluteBoxes = false;
 			GraphicObject::drawRelativeBoxes(displayRelativeBoxes);
 			break;
-			
+		case 'n':
+			newGame.resetGame();
+			ObjectList[FroggerIndex].first->setY(0);
+			ObjectList[FroggerIndex].first->setX(0);
+			break;
 		default:
 			break;
 	}
@@ -807,31 +815,33 @@ void mySpecialKeyHandler(int key, int x, int y)
 	// regular glutKeyboardFunc() callback setup to handle the arrow keys. Instead you must use	
 	// the glutSpecialFunc() callback setup (and GLUT KEY UP, GLUT KEY LEFT, etc. for the
 	// key code, an int rather than an unsigned char).
-	switch(key){
-		case GLUT_KEY_UP:
-			ObjectList[FroggerIndex].first->setY(ObjectList[FroggerIndex].first->getY() + 2);
-			checkFrog();
-			// cout << "Up" << endl;
-			break;
-		case GLUT_KEY_DOWN:
-			ObjectList[FroggerIndex].first->setY(ObjectList[FroggerIndex].first->getY() - 2);
-			checkFrog();
-			// cout << "Down" << endl;
-			break;
-		case GLUT_KEY_LEFT:
-			ObjectList[FroggerIndex].first->setX(ObjectList[FroggerIndex].first->getX() - 1);
-			checkFrog();
-			if(ObjectList[FroggerIndex].first->getX() <= -20)
-				ObjectList[FroggerIndex].first->setX(-19);
-			// cout << "Left" << endl;			
-			break;
-		case GLUT_KEY_RIGHT:
-			ObjectList[FroggerIndex].first->setX(ObjectList[FroggerIndex].first->getX() + 1);
-			checkFrog();
-			if(20 <= ObjectList[FroggerIndex].first->getX())
-				ObjectList[FroggerIndex].first->setX(19);
-			// cout << "Right" << endl;
-			break; 
+	if(newGame.getGameStatus()){
+		switch(key){
+			case GLUT_KEY_UP:
+				ObjectList[FroggerIndex].first->setY(ObjectList[FroggerIndex].first->getY() + 2);
+				checkFrog();
+				// cout << "Up" << endl;
+				break;
+			case GLUT_KEY_DOWN:
+				ObjectList[FroggerIndex].first->setY(ObjectList[FroggerIndex].first->getY() - 2);
+				checkFrog();
+				// cout << "Down" << endl;
+				break;
+			case GLUT_KEY_LEFT:
+				ObjectList[FroggerIndex].first->setX(ObjectList[FroggerIndex].first->getX() - 1);
+				checkFrog();
+				if(ObjectList[FroggerIndex].first->getX() <= -20)
+					ObjectList[FroggerIndex].first->setX(-19);
+				// cout << "Left" << endl;			
+				break;
+			case GLUT_KEY_RIGHT:
+				ObjectList[FroggerIndex].first->setX(ObjectList[FroggerIndex].first->getX() + 1);
+				checkFrog();
+				if(20 <= ObjectList[FroggerIndex].first->getX())
+					ObjectList[FroggerIndex].first->setX(19);
+				// cout << "Right" << endl;
+				break; 
+		}
 	}
 }
 
@@ -846,10 +856,17 @@ void myTimerFunc(int value)
 	//	 do something (e.g. update the state of animated objects)
 	chrono::high_resolution_clock::time_point currentTime = chrono::high_resolution_clock::now();
 	float dt = chrono::duration_cast<chrono::duration<float> >(currentTime - lastTime).count();
-	for (auto obj : ObjectList)
-	{
-		if (obj.second != nullptr)
-			obj.second->update(dt);
+	if(newGame.getGameStatus()){
+		for (auto obj : ObjectList)
+			{
+				if (obj.second != nullptr)
+					obj.second->update(dt);
+			}
+		// Couldn't implement without freezing everything else. 
+		// if (frameIndex++ % 3000 == 0)
+		// {		
+		// 	newGame.setTime(1);
+		// }
 	}
 	
 	lastTime = currentTime;
@@ -1016,7 +1033,7 @@ void checkFrog(){
 	float frogX = ObjectList[FroggerIndex].first->getX();
 	bool froggerSafe = false;
 	WorldPoint froggerWorldPoint = {(frogX), (frogY + World::froggerStartHeight)};
- 	std::cout << "Before Check Frog: " << frogStatus << " | " << frogX << "," <<  frogY << " | " << World::froggerStartHeight << " | " << froggerWorldPoint.x << "," <<  froggerWorldPoint.y << " | " << World::roadHeight << " | " << World::bottomTopHedgeHeight << " | " << std::endl;	
+ 	// std::cout << "Before Check Frog: " << frogStatus << " | " << frogX << "," <<  frogY << " | " << World::froggerStartHeight << " | " << froggerWorldPoint.x << "," <<  froggerWorldPoint.y << " | " << World::roadHeight << " | " << World::bottomTopHedgeHeight << " | " << std::endl;	
 	if(frogY < 0){
 		// std::cout << "First Check Frog: " << FroggerIndex << " | " << frogX << "," <<  frogY << " | " << World::roadHeight << " | " << World::bottomTopHedgeHeight << " | " << std::endl;
 		ObjectList[FroggerIndex].first->setY(0);
@@ -1147,8 +1164,9 @@ int main(int argc, char * argv[])
 	glutInitWindowPosition(INIT_WIN_X, INIT_WIN_Y);
 	glutCreateWindow("Frogger");
 	setupBackground();
+	//Records frogger index in the Object List to be used later. 
 	FroggerIndex = ObjectList.size();
-	std::cout << FroggerIndex << std::endl;
+	// std::cout << FroggerIndex << std::endl;
 	setupFrogger();
 	//	set up the callbacks
 	glutDisplayFunc(myDisplayFunc);

@@ -120,7 +120,7 @@ bool Ellipse::isInside(const WorldPoint& pt) const
 		float ca = cosf(getAngle()), sa = sinf(getAngle());
 		float rdx = (ca * dx + sa*dy)/radiusX_;
 		float rdy = (-sa *dx + ca*dy)/radiusY_;
-		std::cout << "Inside Ellipse with Angle isInside: "  << (rdx*rdx + rdy*rdy < 1) << " | " << rdx << "," << rdy << " | " << radiusX_ << "," << radiusY_ << " | " << ca << "," << sa << " | " << pt.x << "," <<  pt.y << std::endl;
+		// std::cout << "Inside Ellipse with Angle isInside: "  << (rdx*rdx + rdy*rdy < 1) << " | " << rdx << "," << rdy << " | " << radiusX_ << "," << radiusY_ << " | " << ca << "," << sa << " | " << pt.x << "," <<  pt.y << std::endl;
 	
 		return rdx*rdx + rdy*rdy < 1;
 	
@@ -129,7 +129,7 @@ bool Ellipse::isInside(const WorldPoint& pt) const
 	{
 		float dx = (pt.x - getX())/radiusX_, dy = (pt.y - getY())/radiusY_;
 		
-		std::cout << "Inside Ellipse without Angle isInside: " << (dx*dx + dy*dy < 1) << " | " << getX() << "," << getY() << " | " << dx << "," << dy << " | " << " | " << radiusX_ << "," << radiusY_ << " | " << pt.x << "," <<  pt.y << std::endl;
+		// std::cout << "Inside Ellipse without Angle isInside: " << (dx*dx + dy*dy < 1) << " | " << getX() << "," << getY() << " | " << dx << "," << dy << " | " << " | " << radiusX_ << "," << radiusY_ << " | " << pt.x << "," <<  pt.y << std::endl;
 		return dx*dx + dy*dy < 1;
 	}
 }
